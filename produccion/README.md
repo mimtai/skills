@@ -1,0 +1,122 @@
+# Kit de producción · Shorts "Midterms 2026"
+
+Todo lo necesario para montar los 11 Shorts con la skill **edicion-video-shorts** cuando nos conectemos al ordenador.
+
+## Qué hay aquí
+
+| Archivo | Para qué |
+|---|---|
+| `shorts.json` | **Fuente única**: rótulos, guion, imágenes y datos de subida de cada Short |
+| `guiones.md` | Los guiones para leer y grabar (se genera desde el JSON) |
+| `textos/NN_*.txt` | Guion de cada Short, una frase por línea (teleprompter) |
+| `build_short.py` | Monta el Short con los módulos 0, 2, 3, 4, 5 y 7 de la skill |
+| `add_voice_notes.py` | Módulo 6: notas de voz al inicio y al final |
+| `make_guiones.py` | Regenera `guiones.md` y `textos/` si cambias el JSON |
+| `calendario.md` | Días y horas de publicación (ES y Mizan) |
+
+## Lo que tienes que preparar (checklist)
+
+Crea esta estructura junto a los scripts:
+
+```
+produccion/
+  clips/   00.mp4 … 10.mp4   ← un clip de imágenes por Short (horizontal o vertical)
+  voces/   00.mp3 … 10.mp3   ← tu voz leyendo GANCHO + CUERPO + CIERRE
+```
+
+**Al grabar la voz**
+- [ ] Lee el texto **exacto** de `textos/NN_*.txt`: los subtítulos salen de ese texto.
+- [ ] Haz una **pausa clara en cada punto** (medio segundo). Así se sincronizan los subtítulos.
+- [ ] Ritmo natural, unos 16 caracteres por segundo, lo que da unos 35–42 s por Short.
+- [ ] En un lugar silencioso, con el móvil a un palmo. Vale mp3, m4a o wav.
+- [ ] Si cambias una palabra al grabar, cámbiala también en `shorts.json`.
+
+**Al preparar los clips**
+- [ ] Que duren al menos tanto como la voz (si son más cortos, se congela el último fotograma).
+- [ ] Si quieres saltar el principio del clip, usa `--ss` con los segundos.
+- [ ] Apunta el crédito de cada imagen (p. ej. "Imágenes: AP / C-SPAN") para la descripción.
+
+**En el ordenador**
+- [ ] `ffmpeg` instalado (con libass) y Python 3.
+- [ ] Fuentes **Inter / Inter Display** instaladas (gratuitas, rsms.me/inter). Si faltan, se usará otra fuente.
+
+## Comandos
+
+```bash
+# Montar un Short (voz completa + rótulo + subtítulos)
+python3 build_short.py --id 2 --video clips/02.mp4 --voz voces/02.mp3
+
+# Opciones útiles
+#   --ss 2            salta 2 s del inicio del clip
+#   --fondo negro     franjas negras en lugar de fondo desenfocado (también: recorte)
+#   --original 0      quita el sonido original del clip (por defecto queda al 18 % bajo la voz)
+#   --umbral -35      si los subtítulos se desincronizan, prueba -35 o -40
+
+# Sin narración: solo rótulo y subtítulos repartidos por longitud
+python3 build_short.py --id 2 --video clips/02.mp4 --sin-voz --t 40
+
+# Módulo 6: solo notas de voz al inicio (gancho) y al final (cierre)
+python3 add_voice_notes.py salida/short_02_el_sayed_30_millones.mp4 salida/short_02_final.mp4 \
+  --intro voces/02_gancho.m4a --outro voces/02_cierre.m4a
+
+# Montar todos los que tengan clip y voz
+for i in $(seq 0 10); do n=$(printf %02d $i); \
+  [ -f clips/$n.mp4 ] && [ -f voces/$n.mp3 ] && python3 build_short.py --id $i --video clips/$n.mp4 --voz voces/$n.mp3; done
+```
+
+El resultado queda en `salida/`: el `.mp4`, el `.ass` del rótulo y subtítulos, y 3 fotogramas de control (`_inicio`, `_medio`, `_final`). Revisa los fotogramas antes de subir.
+
+## Bucle (Shorts 0, 1, 2, 3, 4, 5, 7, 9 y 10; sin bucle: 6 y 8)
+
+La última frase enlaza con el gancho, así que al reiniciarse el Short la frase se completa sola.
+- **Graba el cierre completo**, con entonación de que la frase sigue (p. ej. "…Porque Trump hizo campaña…").
+- El script **corta el audio justo después** de las palabras de `bucle.corte_tras` (en el hueco entre palabras más cercano), con un microfundido de 30 ms para que no haya clic.
+- El rótulo queda **fijo, sin animación de entrada**, para que el salto del final al principio no se note.
+- Si el corte se come media palabra o deja aire: `--corte 41.85` (segundos exactos). Para desactivarlo: `--sin-bucle`.
+- Consejo visual: que el final del clip se parezca al primer fotograma (mismo plano o misma persona).
+
+| Short | Corte tras… | Enlaza con… |
+|---|---|---|
+| 0 | "Porque hay" | "Tres preguntas. Una noche…" |
+| 1 | "Ya que" | "Prometió no empezar guerras…" |
+| 2 | "Volveremos a decir que" | "Le lanzaron treinta millones…" |
+| 3 | "¿Acaso" | "¿Lo que empezó en Nueva York…?" |
+| 4 | "Porque" | "Republicano y pro-israelí…" |
+| 5 | "Y todo porque" | "Votó contra la guerra…" |
+| 7 | "Porque" | "Trump hizo campaña…" |
+| 9 | "Porque" | "El lobby más temido de Washington…" |
+| 10 | "ya que" | "En Washington hay una etiqueta…" |
+
+## Versión árabe (canal Mizan)
+
+Los 11 guiones tienen adaptación al árabe estándar en `shorts.json` (campo `ar`), en `guiones_ar.md` y en `textos_ar/`.
+
+- **Voces**: `voces_ar/00.mp3` … `10.mp3`, grabando el cierre completo igual que en español.
+- **Clips**: se reutilizan los mismos `clips/NN.mp4`.
+- **Montar**: `python3 build_short.py --id 4 --lang ar --video clips/04.mp4 --voz voces_ar/04.mp3` → `salida/short_04_paradoja_rogers_ar.mp4`
+- **Fuente**: instala **Noto Kufi Arabic** (gratuita, Google Fonts) con los pesos Bold y Black. El script ya pone la fuente árabe, la negrita, el espaciado 0 (para no romper las letras enlazadas) y la dirección de derecha a izquierda.
+- **Bucles árabes**: 0 «لأن هناك», 1 «لأنه», 2 «وسنقول من جديد إنهم», 3 «والسؤال:», 4 «لأنه», 5 «وكل ذلك لأنه», 7 «لأن», 9 «لأن», 10 «لأنّه». Los Shorts 6 y 8 no tienen bucle.
+- **Probado**: Short 4 en árabe, con las letras bien enlazadas, subtítulos de derecha a izquierda y la palabra activa resaltada.
+
+```bash
+# Montar todos en árabe
+for i in $(seq 0 10); do n=$(printf %02d $i); \
+  [ -f clips/$n.mp4 ] && [ -f voces_ar/$n.mp3 ] && python3 build_short.py --id $i --lang ar --video clips/$n.mp4 --voz voces_ar/$n.mp3; done
+```
+
+## Estado de revisión
+
+- ✅ Los 11 guiones en español están revisados y listos para grabar
+- ⏳ Versión árabe: pendiente de tu revisión (o de la del equipo de Mizan)
+
+## Diseño (skill, módulo 5)
+
+- Titular en franja roja `#D7141A` (y 300–412), Inter Display Black 86, en mayúsculas, entrando desde la izquierda.
+- Subtítulo en caja blanca (y 420–500), Inter Display ExtraBold 56.
+- Fecha arriba a la derecha, Inter SemiBold 40.
+- Vídeo centrado (y 520–1128) con línea roja debajo.
+- Subtítulos en y=1185, centrados en x=480 para no tapar los botones de Shorts, con la palabra activa en amarillo.
+
+## Probado
+
+Se probó con un clip sintético 1920×1080 y una voz de 9 tramos (Short 4): salida 1080×1920 de 39 s, −13,1 LUFS, pico −3,2 dBFS. El rótulo y los subtítulos se ven bien y respetan las zonas seguras.

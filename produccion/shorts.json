@@ -1,0 +1,378 @@
+{
+  "serie": "Midterms 2026: guerra, dinero y lobbies",
+  "fecha_por_defecto": "Noviembre 2026",
+  "shorts": [
+    {
+      "id": 0,
+      "slug": "noche_electoral",
+      "tema": "Qué mirar esta noche (publicar HOY)",
+      "titular": "NOCHE ELECTORAL",
+      "subtitulo": "MIDTERMS EE. UU.",
+      "fecha": "3 Noviembre 2026",
+      "gancho": "Tres preguntas. Una noche. Y una guerra en juego. Son las tres cartas que hay encima de la mesa.",
+      "cuerpo": "Hoy Estados Unidos vota en las elecciones de mitad de mandato. Primera pregunta: ¿castigan los votantes la guerra iniciada contra Irán? Trump llega con un treinta y dos por ciento de aprobación, según Reuters e Ipsos. Segunda pregunta: ¿sigue comprando elecciones el dinero? El lobby pro-Israel AIPAC ha gastado más de cincuenta millones este ciclo. Tercera pregunta: ¿puede la nueva izquierda ganar fuera de las grandes ciudades? Todo se decide en Michigan, entre Abdul El-Sayed y Mike Rogers.",
+      "cierre": "Mañana te cuento quién ganó cada una. Porque hay tres preguntas, una noche. Y una guerra…",
+      "imagenes": "Colas de votación, mapa de EE. UU., El-Sayed y Rogers en mitin.",
+      "titulo_subida": "3 preguntas que decide hoy EE. UU. 🇺🇸 #Shorts",
+      "descripcion": "Midterms 2026: la guerra iniciada contra Irán, el dinero de AIPAC y la nueva izquierda, a prueba hoy. Fuentes: Reuters/Ipsos, CNBC, AP.",
+      "hashtags": "#Midterms2026 #EEUU #Elecciones #Michigan",
+      "etiquetas": "midterms 2026, elecciones estados unidos, el-sayed, mike rogers, aipac, guerra irán, trump aprobación, senado eeuu",
+      "bucle": {
+        "corte_tras": "Porque hay",
+        "retoma": "Tres preguntas. Una noche…"
+      },
+      "estado": "revisado",
+      "ar": {
+        "titular": "ليلة الحسم",
+        "subtitulo": "انتخابات أمريكا النصفية",
+        "fecha": "3 نوفمبر 2026",
+        "gancho": "ثلاثة أسئلة. ليلة واحدة. وحرب على المحك. هذه هي الأوراق الثلاث المطروحة على الطاولة.",
+        "cuerpo": "اليوم تصوّت الولايات المتحدة في الانتخابات النصفية. السؤال الأول: هل يعاقب الناخبون الحرب التي بدأت على إيران؟ يصل ترامب بنسبة تأييد 32 بالمئة فقط، بحسب رويترز وإبسوس. السؤال الثاني: هل ما زال المال يشتري الانتخابات؟ أنفق لوبي أيباك المؤيد لإسرائيل أكثر من 50 مليون دولار في هذه الدورة. السؤال الثالث: هل يستطيع اليسار الجديد الفوز خارج المدن الكبرى؟ كل شيء يُحسم في ميشيغان، بين عبد السيد ومايك روجرز.",
+        "cierre": "غداً أخبرك من ربح كل سؤال. لأن هناك ثلاثة أسئلة، ليلة واحدة. وحرباً…",
+        "bucle": {
+          "corte_tras": "لأن هناك",
+          "retoma": "ثلاثة أسئلة. ليلة واحدة…"
+        },
+        "titulo_subida": "3 أسئلة تحسمها أمريكا اليوم 🇺🇸 #Shorts",
+        "descripcion": "الانتخابات النصفية 2026: الحرب على إيران، أموال أيباك، واليسار الجديد على المحك اليوم. المصادر: رويترز/إبسوس، CNBC، أسوشيتد برس.",
+        "hashtags": "#الانتخابات_النصفية #أمريكا #أيباك #ميشيغان",
+        "etiquetas": "الانتخابات النصفية 2026, الانتخابات الأمريكية, عبد السيد, مايك روجرز, أيباك, الحرب على إيران, ترامب, مجلس الشيوخ"
+      }
+    },
+    {
+      "id": 1,
+      "slug": "votar_una_guerra",
+      "tema": "Un referéndum sobre una guerra",
+      "titular": "VOTAR UNA GUERRA",
+      "subtitulo": "IRÁN PESA EN LAS URNAS",
+      "gancho": "Prometió no empezar guerras. Esta ya lleva ocho meses.",
+      "cuerpo": "El veintiocho de febrero, Estados Unidos e Israel iniciaron una guerra contra Irán. Irán cerró el estrecho de Ormuz y se disparó el precio del combustible, no solo el de la gasolina. Según el Pentágono, la guerra ya ha costado treinta y siete mil quinientos millones de dólares. Y la Casa Blanca pide ochenta y siete mil millones más. Mientras las familias pagan el combustible y el alquiler, Washington firma cheques para una guerra a diez mil kilómetros. En marzo, el cincuenta y nueve por ciento ya la desaprobaba. Entre los independientes, el sesenta y ocho.",
+      "cierre": "Hoy se vota si esta guerra merecía la pena. Te leo en comentarios. ¿Tú lo habrías votado? Ya que prometió no empezar guerras…",
+      "imagenes": "Ataques de febrero, petroleros en Ormuz, surtidores con precios, Hegseth en el Senado.",
+      "titulo_subida": "La guerra contra Irán ya cuesta 37.500 millones a EE. UU. #Shorts",
+      "descripcion": "El coste de la guerra iniciada contra Irán, convertido en tema de campaña. Fuentes: AP (comparecencia de Hegseth, 21-jul-2026), CNN, Quinnipiac.",
+      "hashtags": "#Irán #Midterms2026 #Trump #EEUU",
+      "etiquetas": "guerra irán, coste guerra, hegseth, estrecho de ormuz, precio gasolina, midterms, trump, encuestas",
+      "bucle": {
+        "corte_tras": "Ya que",
+        "retoma": "Prometió no empezar guerras…"
+      },
+      "estado": "revisado",
+      "ar": {
+        "titular": "التصويت على حرب",
+        "subtitulo": "إيران في صناديق الاقتراع",
+        "gancho": "وعد بألّا يبدأ حروباً. وهذه الحرب دخلت شهرها الثامن.",
+        "cuerpo": "في 28 فبراير، بدأت الولايات المتحدة وإسرائيل حرباً على إيران. أغلقت إيران مضيق هرمز، فارتفعت أسعار الوقود كلها، لا البنزين وحده. وبحسب البنتاغون، كلّفت الحرب حتى الآن 37.5 مليار دولار. والبيت الأبيض يطلب 87 ملياراً إضافية. بينما تدفع العائلات ثمن الوقود والإيجار، توقّع واشنطن شيكات لحرب على بعد عشرة آلاف كيلومتر. في مارس، كان 59 بالمئة من الأمريكيين يرفضونها. وبين المستقلين، 68 بالمئة.",
+        "cierre": "اليوم يُصوَّت على ما إذا كانت هذه الحرب تستحق. أقرأ تعليقاتكم: هل كنت ستصوّت لها؟ لأنه وعد بألّا يبدأ حروباً…",
+        "bucle": {
+          "corte_tras": "لأنه",
+          "retoma": "وعد بألّا يبدأ حروباً…"
+        },
+        "titulo_subida": "الحرب على إيران كلّفت أمريكا 37.5 مليار دولار #Shorts",
+        "descripcion": "كلفة الحرب التي بدأت على إيران تتحول إلى قضية انتخابية. المصادر: أسوشيتد برس (شهادة هيغسيث، 21 يوليو 2026)، CNN، كوينيبياك.",
+        "hashtags": "#إيران #الانتخابات_النصفية #ترامب #أمريكا",
+        "etiquetas": "الحرب على إيران, كلفة الحرب, هيغسيث, مضيق هرمز, أسعار الوقود, الانتخابات النصفية, ترامب, استطلاعات"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "el_sayed_30_millones",
+      "tema": "El candidato que el dinero no pudo frenar",
+      "titular": "30 MILLONES",
+      "subtitulo": "Y AUN ASÍ GANÓ",
+      "gancho": "Le lanzaron treinta millones de dólares encima. Y ganó.",
+      "cuerpo": "Abdul El-Sayed es médico, hijo de inmigrantes egipcios y musulmán. Nunca ha aceptado dinero de PACs corporativos y critica abiertamente las guerras de Gaza e Irán. En la primaria demócrata al Senado por Michigan, el super PAC vinculado a AIPAC gastó más de treinta millones para apoyar a su rival, Haley Stevens. Según medios como Truthout, buena parte vino de megadonantes republicanos y de fuera de Michigan. Donantes conservadores intentando elegir al candidato demócrata. Resultado: cuarenta y ocho y medio contra cuarenta y siete y medio.",
+      "cierre": "¿Tú qué piensas? ¿Qué va a pasar? Hoy se enfrenta al republicano Mike Rogers. Volveremos a decir que le lanzaron treinta millones de dólares…",
+      "imagenes": "El-Sayed en mitin en Detroit, anuncios de la primaria, gráfico 48,5 / 47,5.",
+      "titulo_subida": "30 millones contra él… y ganó: Abdul El-Sayed #Shorts",
+      "descripcion": "El super PAC vinculado a AIPAC gastó más de 30 M$ en la primaria demócrata de Michigan. Según Truthout y Responsible Statecraft, con fuerte peso de megadonantes republicanos. Fuentes: AP, CNBC (datos FEC), PolitiFact, Truthout.",
+      "hashtags": "#ElSayed #Michigan #AIPAC #Midterms2026",
+      "etiquetas": "abdul el-sayed, michigan senado, haley stevens, aipac, united democracy project, primarias demócratas, super pac, megadonantes",
+      "bucle": {
+        "corte_tras": "Volveremos a decir que",
+        "retoma": "Le lanzaron treinta millones…"
+      },
+      "estado": "revisado",
+      "ar": {
+        "titular": "30 مليوناً",
+        "subtitulo": "ومع ذلك فاز",
+        "gancho": "ألقوا عليه 30 مليون دولار. ومع ذلك فاز.",
+        "cuerpo": "عبد السيد طبيب، ابن مهاجرين مصريين، ومسلم. لم يقبل يوماً أموالاً من لجان العمل السياسي التابعة للشركات، وينتقد علناً الحربين على غزة وإيران. في الانتخابات التمهيدية الديمقراطية لمجلس الشيوخ عن ميشيغان، أنفقت لجنة السوبر باك المرتبطة بأيباك أكثر من 30 مليوناً لدعم منافسته هايلي ستيفنز. وبحسب وسائل إعلام مثل تروث آوت، جاء جزء كبير منها من كبار المانحين الجمهوريين ومن خارج ميشيغان. مانحون محافظون يحاولون اختيار مرشح الديمقراطيين. النتيجة: 48.5 مقابل 47.5.",
+        "cierre": "ما رأيك؟ ماذا سيحدث؟ اليوم يواجه الجمهوري مايك روجرز. وسنقول من جديد إنهم ألقوا عليه 30 مليون دولار…",
+        "bucle": {
+          "corte_tras": "وسنقول من جديد إنهم",
+          "retoma": "ألقوا عليه 30 مليون دولار…"
+        },
+        "titulo_subida": "30 مليوناً ضده… ومع ذلك فاز: عبد السيد #Shorts",
+        "descripcion": "لجنة السوبر باك المرتبطة بأيباك أنفقت أكثر من 30 مليون دولار في تمهيديات ميشيغان الديمقراطية، وبحسب تروث آوت وريسبونسبل ستيتكرافت بثقل كبير لكبار المانحين الجمهوريين. المصادر: أسوشيتد برس، CNBC (بيانات لجنة الانتخابات الفيدرالية)، بوليتيفاكت.",
+        "hashtags": "#عبد_السيد #ميشيغان #أيباك #الانتخابات_النصفية",
+        "etiquetas": "عبد السيد, مجلس الشيوخ ميشيغان, هايلي ستيفنز, أيباك, مشروع الديمقراطية المتحدة, التمهيديات الديمقراطية, سوبر باك, كبار المانحين"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "efecto_mamdani",
+      "tema": "De Nueva York al Senado",
+      "titular": "EFECTO MAMDANI",
+      "subtitulo": "LLEGA A MICHIGAN",
+      "gancho": "¿Lo que empezó en Nueva York puede llegar hoy al Senado?",
+      "cuerpo": "Zohran Mamdani es el primer alcalde musulmán de Nueva York. Ganó con una campaña sobre el coste de la vida y una postura muy crítica con el gobierno de Netanyahu. Ahora pide el voto para El-Sayed: dice que su elección es de importancia crítica. El patrón se repite: candidatos jóvenes, hijos de inmigrantes, discurso económico y cero dinero de AIPAC. Enfrente, el aparato del partido, sostenido por grandes donantes y lobbies. La batalla ya no es solo entre demócratas y republicanos. Es dentro del Partido Demócrata.",
+      "cierre": "¿Moda de gran ciudad o nuevo modelo? Dímelo abajo. ¿Acaso lo que empezó en Nueva York puede llegar hoy al Senado?",
+      "imagenes": "Mamdani en la toma de posesión, El-Sayed y Mamdani juntos, mítines con público joven.",
+      "titulo_subida": "El efecto Mamdani llega al Senado de EE. UU. #Shorts",
+      "descripcion": "El alcalde de Nueva York respalda a Abdul El-Sayed en Michigan: la nueva izquierda contra el aparato. Fuentes: Mediaite, NPR.",
+      "hashtags": "#Mamdani #ElSayed #NuevaYork #Midterms2026",
+      "etiquetas": "zohran mamdani, alcalde nueva york, abdul el-sayed, izquierda progresista, partido demócrata, midterms, michigan, socialismo democrático",
+      "bucle": {
+        "corte_tras": "¿Acaso",
+        "retoma": "¿Lo que empezó en Nueva York…?"
+      },
+      "estado": "revisado",
+      "ar": {
+        "titular": "تأثير ممداني",
+        "subtitulo": "يصل إلى ميشيغان",
+        "gancho": "هل يصل ما بدأ في نيويورك اليوم إلى مجلس الشيوخ؟",
+        "cuerpo": "زهران ممداني أول عمدة مسلم لنيويورك. فاز بحملة عن غلاء المعيشة وموقف ناقد جداً لحكومة نتنياهو. واليوم يدعو للتصويت لعبد السيد، ويقول إن انتخابه بالغ الأهمية. النمط يتكرر: مرشحون شباب، أبناء مهاجرين، خطاب اقتصادي، وصفر دولار من أيباك. وفي المقابل، جهاز الحزب، المدعوم من كبار المانحين واللوبيات. المعركة لم تعد بين الديمقراطيين والجمهوريين فقط. إنها داخل الحزب الديمقراطي.",
+        "cierre": "موضة مدن كبرى أم نموذج جديد؟ اكتب لي في التعليقات. والسؤال: هل يصل ما بدأ في نيويورك اليوم إلى مجلس الشيوخ؟",
+        "bucle": {
+          "corte_tras": "والسؤال:",
+          "retoma": "هل يصل ما بدأ في نيويورك…؟"
+        },
+        "titulo_subida": "تأثير ممداني يصل إلى مجلس الشيوخ الأمريكي #Shorts",
+        "descripcion": "عمدة نيويورك يدعم عبد السيد في ميشيغان: اليسار الجديد في مواجهة جهاز الحزب. المصادر: ميدياإيت، NPR.",
+        "hashtags": "#ممداني #عبد_السيد #نيويورك #الانتخابات_النصفية",
+        "etiquetas": "زهران ممداني, عمدة نيويورك, عبد السيد, اليسار التقدمي, الحزب الديمقراطي, الانتخابات النصفية, ميشيغان, الاشتراكية الديمقراطية"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "paradoja_rogers",
+      "tema": "El republicano que no quiere el sello AIPAC",
+      "titular": "SIN LOGO AIPAC",
+      "subtitulo": "LA PARADOJA DE ROGERS",
+      "gancho": "Republicano y pro-israelí… pero rechaza los anuncios de AIPAC.",
+      "cuerpo": "Mike Rogers, ex agente del FBI y candidato de Trump al Senado por Michigan, es un halcón con Irán. Pero según Axios, su equipo pidió a AIPAC que no hiciera anuncios a su favor. A la vez, animaba a los donantes del lobby a aportar a su propio PAC. Según The Washington Post, unos nueve millones vinculados a AIPAC acabaron en un grupo que le apoya. El dinero sí. El logo no. Porque en Michigan la marca AIPAC ya es tóxica.",
+      "cierre": "Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Porque republicano y pro-israelí…",
+      "imagenes": "Rogers en campaña, logo AIPAC, anuncios electorales.",
+      "titulo_subida": "Quiere el dinero, no el logo: la paradoja AIPAC de Rogers #Shorts",
+      "descripcion": "El candidato republicano en Michigan pidió a AIPAC que no hiciera anuncios a su favor. Fuentes: Axios (vía Mediaite), The Washington Post (vía The National), Truthout.",
+      "hashtags": "#MikeRogers #AIPAC #Michigan #Midterms2026",
+      "etiquetas": "mike rogers, aipac, michigan senado, republicanos, lobby pro israel, super pac, elecciones eeuu, el-sayed",
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "Porque",
+        "retoma": "Republicano y pro-israelí…"
+      },
+      "ar": {
+        "titular": "بلا شعار أيباك",
+        "subtitulo": "مفارقة روجرز",
+        "gancho": "جمهوري ومؤيد لإسرائيل… لكنه يرفض إعلانات أيباك.",
+        "cuerpo": "مايك روجرز، العميل السابق في مكتب التحقيقات الفيدرالي ومرشح ترامب لمجلس الشيوخ عن ميشيغان، من صقور الحرب على إيران. لكن بحسب أكسيوس، طلب فريقه من أيباك ألّا تبث إعلانات لصالحه. وفي الوقت نفسه، كان يشجع مانحي اللوبي على التبرع للجنته الخاصة. وبحسب واشنطن بوست، ذهب نحو 9 ملايين مرتبطة بأيباك إلى مجموعة تدعمه. المال نعم. الشعار لا. لأن علامة أيباك في ميشيغان أصبحت سامّة.",
+        "cierre": "حين يُخفي حلفاؤك اسمك، فاعلم أن شيئاً قد تغيّر. لأنه جمهوري ومؤيد لإسرائيل…",
+        "bucle": {
+          "corte_tras": "لأنه",
+          "retoma": "جمهوري ومؤيد لإسرائيل…"
+        },
+        "titulo_subida": "يريد المال لا الشعار: مفارقة روجرز مع أيباك #Shorts",
+        "descripcion": "المرشح الجمهوري في ميشيغان طلب من أيباك ألّا تبث إعلانات لصالحه. المصادر: أكسيوس (عبر ميدياإيت)، واشنطن بوست (عبر ذا ناشيونال)، تروث آوت.",
+        "hashtags": "#مايك_روجرز #أيباك #ميشيغان #الانتخابات_النصفية",
+        "etiquetas": "مايك روجرز, أيباك, مجلس الشيوخ ميشيغان, الجمهوريون, اللوبي المؤيد لإسرائيل, سوبر باك, الانتخابات الأمريكية, عبد السيد"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "maga_dividido",
+      "tema": "Votó contra la guerra y su partido lo echó",
+      "titular": "MAGA DIVIDIDO",
+      "subtitulo": "EL CASO MASSIE",
+      "gancho": "Votó contra la guerra. Su propio partido lo echó.",
+      "cuerpo": "Thomas Massie, republicano de Kentucky, se opuso a la guerra contra Irán, a la ley fiscal de Trump y pidió publicar los archivos Epstein. En mayo perdió su primaria frente a Ed Gallrein, un ex Navy SEAL apoyado por Trump. Fue la primaria más cara de la historia de la Cámara: más de veinticinco millones. Massie acusó a grupos pro-Israel de financiar su caída. MAGA está partido en dos y ya no lo esconde. De un lado, Tucker Carlson, Marjorie Taylor Greene y Steve Bannon: America First, cero guerras. Del otro, los halcones de Netanyahu.",
+      "cierre": "La guerra más dura por Irán no es entre partidos. Es dentro de MAGA. Y todo porque votó contra la guerra…",
+      "imagenes": "Massie en el Congreso, Trump con Gallrein, Carlson y Greene.",
+      "titulo_subida": "MAGA partido en dos: votó contra la guerra y lo echaron #Shorts",
+      "descripcion": "Thomas Massie perdió la primaria más cara de la historia de la Cámara tras oponerse a la guerra contra Irán. Fuentes: AP, Daily Signal, Mediaite.",
+      "hashtags": "#Massie #MAGA #Irán #Midterms2026",
+      "etiquetas": "thomas massie, ed gallrein, kentucky, maga dividido, tucker carlson, marjorie taylor greene, guerra irán, america first",
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "Y todo porque",
+        "retoma": "Votó contra la guerra…"
+      },
+      "ar": {
+        "titular": "ماغا منقسمة",
+        "subtitulo": "قضية ماسي",
+        "gancho": "صوّت ضد الحرب. فطرده حزبه.",
+        "cuerpo": "توماس ماسي، الجمهوري عن ولاية كنتاكي، عارض الحرب على إيران وقانون ترامب الضريبي، وطالب بنشر ملفات إبستين. في مايو خسر الانتخابات التمهيدية أمام إد غالرين، الجندي السابق في القوات الخاصة البحرية والمدعوم من ترامب. كانت أغلى انتخابات تمهيدية في تاريخ مجلس النواب: أكثر من 25 مليون دولار. واتهم ماسي جماعات مؤيدة لإسرائيل بتمويل سقوطه. حركة ماغا منقسمة إلى نصفين ولم تعد تخفي ذلك. في جهة، تاكر كارلسون ومارجوري تايلور غرين وستيف بانون: أمريكا أولاً، ولا حروب. وفي الجهة الأخرى، صقور نتنياهو.",
+        "cierre": "أشرس معركة حول إيران ليست بين الحزبين. إنها داخل ماغا. وكل ذلك لأنه صوّت ضد الحرب…",
+        "bucle": {
+          "corte_tras": "وكل ذلك لأنه",
+          "retoma": "صوّت ضد الحرب…"
+        },
+        "titulo_subida": "ماغا منقسمة: صوّت ضد الحرب على إيران فطردوه #Shorts",
+        "descripcion": "توماس ماسي خسر أغلى انتخابات تمهيدية في تاريخ مجلس النواب بعد معارضته الحرب على إيران. المصادر: أسوشيتد برس، ديلي سيغنال، ميدياإيت.",
+        "hashtags": "#ماسي #ماغا #إيران #الانتخابات_النصفية",
+        "etiquetas": "توماس ماسي, إد غالرين, كنتاكي, انقسام ماغا, تاكر كارلسون, مارجوري تايلور غرين, الحرب على إيران, أمريكا أولاً"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "sala_de_situacion",
+      "tema": "Netanyahu en la Sala de Situación",
+      "titular": "SALA DE SITUACIÓN",
+      "subtitulo": "CÓMO EMPEZÓ LA GUERRA",
+      "gancho": "Tres horas en la Casa Blanca. Diecisiete días después, la guerra.",
+      "cuerpo": "Once de febrero. Netanyahu visita a Trump y, según The New York Times, hace una presentación clasificada sobre Irán en la Sala de Situación. Un líder extranjero en la sala donde se deciden las guerras de Estados Unidos. Ese día Trump dice que quiere seguir negociando. Pero el veintitrés de febrero hay una llamada entre los dos que Axios califica de decisiva. Trump sale convencido de que la diplomacia está muerta. El veintiocho, Estados Unidos e Israel inician la guerra contra Irán. Netanyahu dice que él solo es el socio menor.",
+      "cierre": "¿Quién decidió esta guerra: Washington o Jerusalén?",
+      "imagenes": "Trump y Netanyahu en el Despacho Oval, exterior de la Casa Blanca, Teherán.",
+      "titulo_subida": "Así convenció Netanyahu a Trump, según el NYT #Shorts",
+      "descripcion": "Cronología de cómo EE. UU. entró en la guerra contra Irán. Fuentes: The New York Times, Axios, JWeekly. Netanyahu se define como \"socio menor\".",
+      "hashtags": "#Netanyahu #Trump #Irán #Israel",
+      "etiquetas": "netanyahu, trump, guerra irán, sala de situación, casa blanca, israel, axios, new york times",
+      "estado": "revisado",
+      "ar": {
+        "titular": "غرفة العمليات",
+        "subtitulo": "هكذا بدأت الحرب",
+        "gancho": "ثلاث ساعات في البيت الأبيض. وبعد سبعة عشر يوماً، الحرب.",
+        "cuerpo": "11 فبراير. نتنياهو يزور ترامب، وبحسب نيويورك تايمز، يقدّم عرضاً سرياً عن إيران في غرفة العمليات. زعيم أجنبي في الغرفة التي تُقرَّر فيها حروب الولايات المتحدة. في ذلك اليوم يقول ترامب إنه يريد مواصلة التفاوض. لكن في 23 فبراير يجري بينهما اتصال تصفه أكسيوس بالحاسم. يخرج ترامب مقتنعاً بأن الدبلوماسية ماتت. وفي 28 فبراير، تبدأ الولايات المتحدة وإسرائيل الحرب على إيران. نتنياهو يقول إنه مجرد شريك أصغر.",
+        "cierre": "من قرّر هذه الحرب: واشنطن أم تل أبيب؟",
+        "titulo_subida": "هكذا أقنع نتنياهو ترامب، بحسب نيويورك تايمز #Shorts",
+        "descripcion": "التسلسل الزمني لدخول أمريكا الحرب على إيران. المصادر: نيويورك تايمز، أكسيوس، JWeekly. نتنياهو يصف نفسه بـ\"الشريك الأصغر\".",
+        "hashtags": "#نتنياهو #ترامب #إيران #إسرائيل",
+        "etiquetas": "نتنياهو, ترامب, الحرب على إيران, غرفة العمليات, البيت الأبيض, إسرائيل, أكسيوس, نيويورك تايمز"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "dos_elecciones",
+      "tema": "Trump hizo campaña en otro país",
+      "titular": "DOS ELECCIONES",
+      "subtitulo": "ISRAEL Y EE. UU.",
+      "gancho": "Trump hizo campaña… en las elecciones de otro país.",
+      "cuerpo": "Israel votó a finales de octubre. Y Trump pidió públicamente a los israelíes que devolvieran a Netanyahu al poder para terminar la guerra contra Irán. Netanyahu, a su vez, aseguró que con él en el cargo Trump podría volver a atacar. Resultado: el Likud queda primero, pero sin mayoría clara. Su rival, Gadi Eisenkot, también reclama la victoria. Una semana después vota Estados Unidos. Dos elecciones que se cruzan. Y una pregunta encima de la mesa: si vuelven las bombas.",
+      "cierre": "¿Y tú? ¿Crees que lo que está pasando en EE. UU. también se mira en Tel Aviv? Porque Trump hizo campaña…",
+      "imagenes": "Colegios electorales israelíes, Netanyahu y Eisenkot, Trump.",
+      "titulo_subida": "Trump pidió el voto para Netanyahu: dos elecciones cruzadas #Shorts",
+      "descripcion": "Las elecciones de Israel y las midterms de EE. UU., con la guerra contra Irán de fondo. Fuentes: CNBC, ABC, Colorado Politics, IBTimes.",
+      "hashtags": "#Israel #Netanyahu #Trump #Midterms2026",
+      "etiquetas": "elecciones israel, netanyahu, gadi eisenkot, trump, likud, guerra irán, midterms, política exterior",
+      "bucle": {
+        "corte_tras": "Porque",
+        "retoma": "Trump hizo campaña…"
+      },
+      "estado": "revisado",
+      "ar": {
+        "titular": "انتخابان",
+        "subtitulo": "إسرائيل وأمريكا",
+        "gancho": "ترامب قاد حملة انتخابية… في انتخابات بلد آخر.",
+        "cuerpo": "صوّتت إسرائيل في أواخر أكتوبر. وطلب ترامب علناً من الإسرائيليين إعادة نتنياهو إلى الحكم لإنهاء الحرب على إيران. ونتنياهو بدوره أكد أن ترامب قد يعود للهجوم إن بقي هو في منصبه. النتيجة: الليكود في المركز الأول، لكن بلا أغلبية واضحة. ومنافسه غادي آيزنكوت يعلن الفوز أيضاً. وبعد أسبوع، تصوّت الولايات المتحدة. انتخابان يتقاطعان. وسؤال مطروح على الطاولة: هل تعود القنابل؟",
+        "cierre": "وأنت؟ هل تعتقد أن ما يجري في أمريكا يُتابَع أيضاً في تل أبيب؟ لأن ترامب قاد حملة انتخابية…",
+        "bucle": {
+          "corte_tras": "لأن",
+          "retoma": "ترامب قاد حملة انتخابية…"
+        },
+        "titulo_subida": "ترامب دعا للتصويت لنتنياهو: انتخابان متقاطعان #Shorts",
+        "descripcion": "انتخابات إسرائيل والانتخابات النصفية الأمريكية، والحرب على إيران في الخلفية. المصادر: CNBC، ABC، كولورادو بوليتيكس، IBTimes.",
+        "hashtags": "#إسرائيل #نتنياهو #ترامب #الانتخابات_النصفية",
+        "etiquetas": "الانتخابات الإسرائيلية, نتنياهو, غادي آيزنكوت, ترامب, الليكود, الحرب على إيران, الانتخابات النصفية, السياسة الخارجية"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "maquina_aipac",
+      "tema": "Cómo funciona la máquina AIPAC",
+      "titular": "LA MÁQUINA AIPAC",
+      "subtitulo": "70 AÑOS EN WASHINGTON",
+      "gancho": "Catorce millones para echar a un congresista. Y nunca dijeron Israel.",
+      "cuerpo": "AIPAC nació en los años cincuenta. Durante décadas no puso un dólar en campañas: hacía lobby, organizaba viajes a Israel y movía redes de donantes. En 2021 cambió las reglas y creó su propio super PAC, United Democracy Project. En 2024 gastó más de cien millones. Catorce y medio contra Jamaal Bowman. Ocho y medio contra Cori Bush. Los dos criticaban la operación en Gaza. Los dos perdieron. Los anuncios hablaban de impuestos o de lealtad al partido. Castigan una postura sobre Israel sin nombrar nunca a Israel.",
+      "cierre": "En el próximo vídeo, por qué esa máquina empieza a fallar.",
+      "imagenes": "Archivo de conferencias AIPAC, Bowman y Bush, capturas de anuncios.",
+      "titulo_subida": "14 millones para echar a un congresista: la máquina AIPAC #Shorts",
+      "descripcion": "Cómo el lobby pro-Israel pasó del lobby discreto a los super PACs. Fuentes: OpenSecrets, FEC, FactCheck.org.",
+      "hashtags": "#AIPAC #SuperPAC #Congreso #EEUU",
+      "etiquetas": "aipac, united democracy project, jamaal bowman, cori bush, super pac, lobby israel, financiación campañas, congreso eeuu",
+      "estado": "revisado",
+      "ar": {
+        "titular": "آلة أيباك",
+        "subtitulo": "70 عاماً في واشنطن",
+        "gancho": "14 مليوناً لإسقاط عضو في الكونغرس. ولم يذكروا إسرائيل ولو مرة.",
+        "cuerpo": "وُلدت أيباك في خمسينيات القرن الماضي. لعقود، لم تضع دولاراً واحداً في الحملات: كانت تمارس الضغط، وتنظم رحلات إلى إسرائيل، وتحرّك شبكات المانحين. في 2021 غيّرت القواعد وأنشأت لجنتها الفائقة: مشروع الديمقراطية المتحدة. وفي 2024 أنفقت أكثر من 100 مليون. 14.5 مليوناً ضد جمال بومان. و8.5 ملايين ضد كوري بوش. كلاهما انتقد العملية في غزة. وكلاهما خسر. وكانت الإعلانات تتحدث عن الضرائب أو الولاء للحزب. يعاقبون موقفاً من إسرائيل دون أن يذكروا إسرائيل أبداً.",
+        "cierre": "في الفيديو القادم: لماذا بدأت هذه الآلة تتعطل.",
+        "titulo_subida": "14 مليوناً لإسقاط عضو كونغرس: آلة أيباك #Shorts",
+        "descripcion": "كيف انتقل اللوبي المؤيد لإسرائيل من الضغط الهادئ إلى لجان السوبر باك. المصادر: OpenSecrets، لجنة الانتخابات الفيدرالية، FactCheck.org.",
+        "hashtags": "#أيباك #سوبر_باك #الكونغرس #أمريكا",
+        "etiquetas": "أيباك, مشروع الديمقراطية المتحدة, جمال بومان, كوري بوش, سوبر باك, اللوبي الإسرائيلي, تمويل الحملات, الكونغرس"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "sin_nombre_con_dinero",
+      "tema": "El lobby se quita el nombre",
+      "titular": "SIN NOMBRE",
+      "subtitulo": "PERO CON DINERO",
+      "gancho": "El lobby más temido de Washington ha borrado su nombre. No su dinero.",
+      "cuerpo": "Veintiuno de octubre. AIPAC anuncia que deja de avalar candidatos y de donarles directamente. En las primarias demócratas ya acumula más derrotas que victorias. Pero su super PAC sigue activo y ha recaudado más de cien millones este ciclo. Según varios medios, con fuerte peso de megadonantes republicanos. Y según Politico, más del cuarenta por ciento de su gasto en primarias pasó por PACs con nombres genéricos. Algunos cerraron tras la votación y devolvieron el dinero. No es una retirada. Es un cambio de disfraz.",
+      "cierre": "Antes de creerte un anuncio electoral, mira quién lo paga. Porque el lobby más temido de Washington ha borrado su nombre…",
+      "imagenes": "Titulares del 21 de octubre, documentos de la FEC, anuncios con nombres genéricos.",
+      "titulo_subida": "AIPAC deja de avalar candidatos… pero no de gastar #Shorts",
+      "descripcion": "El giro de AIPAC del 21 de octubre y los PACs pantalla. Fuentes: NPR, CNBC, Politico, The Intercept, FactCheck.org; megadonantes, según Truthout y Responsible Statecraft.",
+      "hashtags": "#AIPAC #DineroOscuro #Midterms2026 #EEUU",
+      "etiquetas": "aipac, united democracy project, pacs fantasma, dinero oscuro, megadonantes, the intercept, politico, financiación electoral",
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "Porque",
+        "retoma": "El lobby más temido de Washington…"
+      },
+      "ar": {
+        "titular": "بلا اسم",
+        "subtitulo": "لكن بالمال",
+        "gancho": "اللوبي الأكثر إثارة للخوف في واشنطن محا اسمه. لا ماله.",
+        "cuerpo": "21 أكتوبر. أيباك تعلن أنها ستتوقف عن تزكية المرشحين والتبرع لهم مباشرة. في الانتخابات التمهيدية الديمقراطية، باتت خسائرها أكثر من انتصاراتها. لكن لجنتها الفائقة ما زالت تعمل، وجمعت أكثر من 100 مليون في هذه الدورة. وبحسب عدة وسائل إعلام، بثقل كبير لكبار المانحين الجمهوريين. وبحسب بوليتيكو، مرّ أكثر من 40 بالمئة من إنفاقها في التمهيديات عبر لجان بأسماء عامة. بعضها أُغلق بعد التصويت وأعاد المال. هذا ليس انسحاباً. إنه تغيير قناع.",
+        "cierre": "قبل أن تصدّق أي إعلان انتخابي، اسأل من دفع ثمنه. لأن اللوبي الأكثر إثارة للخوف في واشنطن محا اسمه…",
+        "bucle": {
+          "corte_tras": "لأن",
+          "retoma": "اللوبي الأكثر إثارة للخوف…"
+        },
+        "titulo_subida": "أيباك تتوقف عن تزكية المرشحين… لا عن الإنفاق #Shorts",
+        "descripcion": "تحوّل أيباك في 21 أكتوبر ولجان الواجهة. المصادر: NPR، CNBC، بوليتيكو، ذا إنترسبت، FactCheck.org؛ كبار المانحين بحسب تروث آوت وريسبونسبل ستيتكرافت.",
+        "hashtags": "#أيباك #المال_السياسي #الانتخابات_النصفية #أمريكا",
+        "etiquetas": "أيباك, مشروع الديمقراطية المتحدة, لجان الواجهة, المال السياسي, كبار المانحين, ذا إنترسبت, بوليتيكو, تمويل الانتخابات"
+      }
+    },
+    {
+      "id": 10,
+      "slug": "factor_israel",
+      "tema": "La etiqueta que asusta a Washington",
+      "titular": "EL FACTOR ISRAEL",
+      "subtitulo": "MIEDO Y FRACTURA",
+      "gancho": "En Washington hay una etiqueta que puede acabar con tu carrera.",
+      "cuerpo": "Antisionista. Si te la cuelgan, estás en el punto de mira. Y en muchos casos te cuesta el escaño: que se lo pregunten a Jamaal Bowman o a Cori Bush. Por eso el Congreso vota casi por unanimidad a favor de Israel. Pero la calle ya no piensa igual. Gallup, febrero de 2026: por primera vez desde 2001, más estadounidenses simpatizan con los palestinos que con los israelíes. Entre los demócratas, sesenta y cinco contra diecisiete. Entre los jóvenes, solo un veintitrés por ciento con Israel.",
+      "cierre": "Políticos con miedo y votantes que ya no lo tienen. Hoy se mide quién pesa más, ya que en Washington hay una etiqueta que puede acabar con tu carrera.",
+      "imagenes": "Gráfico de Gallup, votaciones en el Capitolio, protestas universitarias, mitin demócrata.",
+      "titulo_subida": "La etiqueta que puede acabar con tu carrera en Washington #Shorts",
+      "descripcion": "Ser señalado como antisionista te pone en el punto de mira, pero el electorado ha cambiado. Fuente: Gallup (2–16 feb 2026, 1.001 adultos); casos Bowman y Bush (OpenSecrets).",
+      "hashtags": "#Israel #Gallup #PartidoDemócrata #EEUU",
+      "etiquetas": "gallup 2026, israel palestina encuesta, antisionismo, partido demócrata, votantes jóvenes, aipac, jamaal bowman, cori bush",
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "ya que",
+        "retoma": "En Washington hay una etiqueta…"
+      },
+      "ar": {
+        "titular": "عامل إسرائيل",
+        "subtitulo": "خوف وانقسام",
+        "gancho": "في واشنطن، هناك وصمة قد تُنهي مسيرتك.",
+        "cuerpo": "معادٍ للصهيونية. إن أُلصقت بك، صرت في مرمى النيران. وفي حالات كثيرة تكلّفك مقعدك: اسألوا جمال بومان أو كوري بوش. لهذا يصوّت الكونغرس بإجماع شبه تام لصالح إسرائيل. لكن الشارع لم يعد يفكر هكذا. استطلاع غالوب، فبراير 2026: لأول مرة منذ 2001، يتعاطف الأمريكيون مع الفلسطينيين أكثر من الإسرائيليين. 41 مقابل 36. وبين الديمقراطيين، 65 مقابل 17. وبين الشباب، 23 بالمئة فقط مع إسرائيل.",
+        "cierre": "سياسيون خائفون وناخبون لم يعودوا كذلك. اليوم نعرف من الأثقل وزناً، لأنّه في واشنطن، هناك وصمة قد تُنهي مسيرتك.",
+        "bucle": {
+          "corte_tras": "لأنّه",
+          "retoma": "في واشنطن، هناك وصمة…"
+        },
+        "titulo_subida": "الوصمة التي قد تُنهي مسيرتك في واشنطن #Shorts",
+        "descripcion": "وصمة معاداة الصهيونية تضعك في مرمى النيران، لكن الناخبين تغيّروا. المصدر: غالوب (2–16 فبراير 2026، 1001 بالغ)؛ حالتا بومان وبوش (OpenSecrets).",
+        "hashtags": "#إسرائيل #غالوب #الحزب_الديمقراطي #أمريكا",
+        "etiquetas": "غالوب 2026, استطلاع إسرائيل فلسطين, معاداة الصهيونية, الحزب الديمقراطي, الناخبون الشباب, أيباك, جمال بومان, كوري بوش"
+      }
+    }
+  ],
+  "fecha_por_defecto_ar": "نوفمبر 2026"
+}
