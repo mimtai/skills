@@ -4,7 +4,7 @@ Generado desde `shorts.json`, así que edita ese archivo y vuelve a ejecutar `py
 
 Para cada Short: **titular / subtítulo** del rótulo, **gancho, cuerpo y cierre** para grabar seguidos en `voces/NN.mp3`, y los datos de subida. Duración estimada a 16 caracteres por segundo.
 
-**Estado**: ✅ revisados 0, 1, 2, 3, 4, 7 · ⏳ pendientes 5, 6, 8, 9, 10
+**Estado**: ✅ revisados 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 · ⏳ pendientes 
 
 ---
 
@@ -133,10 +133,10 @@ Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Porque republican
 
 ---
 
-## ⏳ SHORT 5 · Votó contra la guerra y su partido lo echó
+## ✅ SHORT 5 · Votó contra la guerra y su partido lo echó
 
 **Rótulo** · `MAGA DIVIDIDO` / `EL CASO MASSIE` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~41 s · Archivos: `clips/05.mp4` + `voces/05.mp3`
+**Duración estimada**: ~43 s · Archivos: `clips/05.mp4` + `voces/05.mp3`
 
 **GANCHO (0–3 s)**  
 Votó contra la guerra. Su propio partido lo echó.
@@ -145,7 +145,9 @@ Votó contra la guerra. Su propio partido lo echó.
 Thomas Massie, republicano de Kentucky, se opuso a la guerra contra Irán, a la ley fiscal de Trump y pidió publicar los archivos Epstein. En mayo perdió su primaria frente a Ed Gallrein, un ex Navy SEAL apoyado por Trump. Fue la primaria más cara de la historia de la Cámara: más de veinticinco millones. Massie acusó a grupos pro-Israel de financiar su caída. MAGA está partido en dos y ya no lo esconde. De un lado, Tucker Carlson, Marjorie Taylor Greene y Steve Bannon: America First, cero guerras. Del otro, los halcones de Netanyahu.
 
 **CIERRE**  
-La guerra más dura por Irán no es entre partidos. Es dentro de MAGA.
+La guerra más dura por Irán no es entre partidos. Es dentro de MAGA. Y todo porque votó contra la guerra…
+
+**🔁 Bucle**: corto el audio tras «Y todo porque», que enlaza con «Votó contra la guerra…».
 
 **Imágenes**: Massie en el Congreso, Trump con Gallrein, Carlson y Greene.
 
@@ -156,7 +158,7 @@ La guerra más dura por Irán no es entre partidos. Es dentro de MAGA.
 
 ---
 
-## ⏳ SHORT 6 · Netanyahu en la Sala de Situación
+## ✅ SHORT 6 · Netanyahu en la Sala de Situación
 
 **Rótulo** · `SALA DE SITUACIÓN` / `CÓMO EMPEZÓ LA GUERRA` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~41 s · Archivos: `clips/06.mp4` + `voces/06.mp3`
@@ -204,7 +206,7 @@ Israel votó a finales de octubre. Y Trump pidió públicamente a los israelíes
 
 ---
 
-## ⏳ SHORT 8 · Cómo funciona la máquina AIPAC
+## ✅ SHORT 8 · Cómo funciona la máquina AIPAC
 
 **Rótulo** · `LA MÁQUINA AIPAC` / `70 AÑOS EN WASHINGTON` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~40 s · Archivos: `clips/08.mp4` + `voces/08.mp3`
@@ -227,10 +229,10 @@ En el próximo vídeo, por qué esa máquina empieza a fallar.
 
 ---
 
-## ⏳ SHORT 9 · El lobby se quita el nombre
+## ✅ SHORT 9 · El lobby se quita el nombre
 
 **Rótulo** · `SIN NOMBRE` / `PERO CON DINERO` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~40 s · Archivos: `clips/09.mp4` + `voces/09.mp3`
+**Duración estimada**: ~44 s · Archivos: `clips/09.mp4` + `voces/09.mp3`
 
 **GANCHO (0–3 s)**  
 El lobby más temido de Washington ha borrado su nombre. No su dinero.
@@ -239,7 +241,9 @@ El lobby más temido de Washington ha borrado su nombre. No su dinero.
 Veintiuno de octubre. AIPAC anuncia que deja de avalar candidatos y de donarles directamente. En las primarias demócratas ya acumula más derrotas que victorias. Pero su super PAC sigue activo y ha recaudado más de cien millones este ciclo. Según varios medios, con fuerte peso de megadonantes republicanos. Y según Politico, más del cuarenta por ciento de su gasto en primarias pasó por PACs con nombres genéricos. Algunos cerraron tras la votación y devolvieron el dinero. No es una retirada. Es un cambio de disfraz.
 
 **CIERRE**  
-Antes de creerte un anuncio electoral, mira quién lo paga.
+Antes de creerte un anuncio electoral, mira quién lo paga. Porque el lobby más temido de Washington ha borrado su nombre…
+
+**🔁 Bucle**: corto el audio tras «Porque», que enlaza con «El lobby más temido de Washington…».
 
 **Imágenes**: Titulares del 21 de octubre, documentos de la FEC, anuncios con nombres genéricos.
 
@@ -250,10 +254,10 @@ Antes de creerte un anuncio electoral, mira quién lo paga.
 
 ---
 
-## ⏳ SHORT 10 · La etiqueta que asusta a Washington
+## ✅ SHORT 10 · La etiqueta que asusta a Washington
 
 **Rótulo** · `EL FACTOR ISRAEL` / `MIEDO Y FRACTURA` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~40 s · Archivos: `clips/10.mp4` + `voces/10.mp3`
+**Duración estimada**: ~44 s · Archivos: `clips/10.mp4` + `voces/10.mp3`
 
 **GANCHO (0–3 s)**  
 En Washington hay una etiqueta que puede acabar con tu carrera.
@@ -262,7 +266,9 @@ En Washington hay una etiqueta que puede acabar con tu carrera.
 Antisionista. Si te la cuelgan, estás en el punto de mira. Y en muchos casos te cuesta el escaño: que se lo pregunten a Jamaal Bowman o a Cori Bush. Por eso el Congreso vota casi por unanimidad a favor de Israel. Pero la calle ya no piensa igual. Gallup, febrero de 2026: por primera vez desde 2001, más estadounidenses simpatizan con los palestinos que con los israelíes. Entre los demócratas, sesenta y cinco contra diecisiete. Entre los jóvenes, solo un veintitrés por ciento con Israel.
 
 **CIERRE**  
-Políticos con miedo y votantes que ya no lo tienen. Hoy se mide quién pesa más.
+Políticos con miedo y votantes que ya no lo tienen. Hoy se mide quién pesa más, ya que en Washington hay una etiqueta que puede acabar con tu carrera.
+
+**🔁 Bucle**: corto el audio tras «ya que», que enlaza con «En Washington hay una etiqueta…».
 
 **Imágenes**: Gráfico de Gallup, votaciones en el Capitolio, protestas universitarias, mitin demócrata.
 

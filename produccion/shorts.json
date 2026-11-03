@@ -111,13 +111,17 @@
       "subtitulo": "EL CASO MASSIE",
       "gancho": "Votó contra la guerra. Su propio partido lo echó.",
       "cuerpo": "Thomas Massie, republicano de Kentucky, se opuso a la guerra contra Irán, a la ley fiscal de Trump y pidió publicar los archivos Epstein. En mayo perdió su primaria frente a Ed Gallrein, un ex Navy SEAL apoyado por Trump. Fue la primaria más cara de la historia de la Cámara: más de veinticinco millones. Massie acusó a grupos pro-Israel de financiar su caída. MAGA está partido en dos y ya no lo esconde. De un lado, Tucker Carlson, Marjorie Taylor Greene y Steve Bannon: America First, cero guerras. Del otro, los halcones de Netanyahu.",
-      "cierre": "La guerra más dura por Irán no es entre partidos. Es dentro de MAGA.",
+      "cierre": "La guerra más dura por Irán no es entre partidos. Es dentro de MAGA. Y todo porque votó contra la guerra…",
       "imagenes": "Massie en el Congreso, Trump con Gallrein, Carlson y Greene.",
       "titulo_subida": "MAGA partido en dos: votó contra la guerra y lo echaron #Shorts",
       "descripcion": "Thomas Massie perdió la primaria más cara de la historia de la Cámara tras oponerse a la guerra contra Irán. Fuentes: AP, Daily Signal, Mediaite.",
       "hashtags": "#Massie #MAGA #Irán #Midterms2026",
       "etiquetas": "thomas massie, ed gallrein, kentucky, maga dividido, tucker carlson, marjorie taylor greene, guerra irán, america first",
-      "estado": "pendiente de revisar"
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "Y todo porque",
+        "retoma": "Votó contra la guerra…"
+      }
     },
     {
       "id": 6,
@@ -133,7 +137,7 @@
       "descripcion": "Cronología de cómo EE. UU. entró en la guerra contra Irán. Fuentes: The New York Times, Axios, JWeekly. Netanyahu se define como \"socio menor\".",
       "hashtags": "#Netanyahu #Trump #Irán #Israel",
       "etiquetas": "netanyahu, trump, guerra irán, sala de situación, casa blanca, israel, axios, new york times",
-      "estado": "pendiente de revisar"
+      "estado": "revisado"
     },
     {
       "id": 7,
@@ -169,7 +173,7 @@
       "descripcion": "Cómo el lobby pro-Israel pasó del lobby discreto a los super PACs. Fuentes: OpenSecrets, FEC, FactCheck.org.",
       "hashtags": "#AIPAC #SuperPAC #Congreso #EEUU",
       "etiquetas": "aipac, united democracy project, jamaal bowman, cori bush, super pac, lobby israel, financiación campañas, congreso eeuu",
-      "estado": "pendiente de revisar"
+      "estado": "revisado"
     },
     {
       "id": 9,
@@ -179,13 +183,17 @@
       "subtitulo": "PERO CON DINERO",
       "gancho": "El lobby más temido de Washington ha borrado su nombre. No su dinero.",
       "cuerpo": "Veintiuno de octubre. AIPAC anuncia que deja de avalar candidatos y de donarles directamente. En las primarias demócratas ya acumula más derrotas que victorias. Pero su super PAC sigue activo y ha recaudado más de cien millones este ciclo. Según varios medios, con fuerte peso de megadonantes republicanos. Y según Politico, más del cuarenta por ciento de su gasto en primarias pasó por PACs con nombres genéricos. Algunos cerraron tras la votación y devolvieron el dinero. No es una retirada. Es un cambio de disfraz.",
-      "cierre": "Antes de creerte un anuncio electoral, mira quién lo paga.",
+      "cierre": "Antes de creerte un anuncio electoral, mira quién lo paga. Porque el lobby más temido de Washington ha borrado su nombre…",
       "imagenes": "Titulares del 21 de octubre, documentos de la FEC, anuncios con nombres genéricos.",
       "titulo_subida": "AIPAC deja de avalar candidatos… pero no de gastar #Shorts",
       "descripcion": "El giro de AIPAC del 21 de octubre y los PACs pantalla. Fuentes: NPR, CNBC, Politico, The Intercept, FactCheck.org; megadonantes, según Truthout y Responsible Statecraft.",
       "hashtags": "#AIPAC #DineroOscuro #Midterms2026 #EEUU",
       "etiquetas": "aipac, united democracy project, pacs fantasma, dinero oscuro, megadonantes, the intercept, politico, financiación electoral",
-      "estado": "pendiente de revisar"
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "Porque",
+        "retoma": "El lobby más temido de Washington…"
+      }
     },
     {
       "id": 10,
@@ -195,13 +203,17 @@
       "subtitulo": "MIEDO Y FRACTURA",
       "gancho": "En Washington hay una etiqueta que puede acabar con tu carrera.",
       "cuerpo": "Antisionista. Si te la cuelgan, estás en el punto de mira. Y en muchos casos te cuesta el escaño: que se lo pregunten a Jamaal Bowman o a Cori Bush. Por eso el Congreso vota casi por unanimidad a favor de Israel. Pero la calle ya no piensa igual. Gallup, febrero de 2026: por primera vez desde 2001, más estadounidenses simpatizan con los palestinos que con los israelíes. Entre los demócratas, sesenta y cinco contra diecisiete. Entre los jóvenes, solo un veintitrés por ciento con Israel.",
-      "cierre": "Políticos con miedo y votantes que ya no lo tienen. Hoy se mide quién pesa más.",
+      "cierre": "Políticos con miedo y votantes que ya no lo tienen. Hoy se mide quién pesa más, ya que en Washington hay una etiqueta que puede acabar con tu carrera.",
       "imagenes": "Gráfico de Gallup, votaciones en el Capitolio, protestas universitarias, mitin demócrata.",
       "titulo_subida": "La etiqueta que puede acabar con tu carrera en Washington #Shorts",
       "descripcion": "Ser señalado como antisionista te pone en el punto de mira, pero el electorado ha cambiado. Fuente: Gallup (2–16 feb 2026, 1.001 adultos); casos Bowman y Bush (OpenSecrets).",
       "hashtags": "#Israel #Gallup #PartidoDemócrata #EEUU",
       "etiquetas": "gallup 2026, israel palestina encuesta, antisionismo, partido demócrata, votantes jóvenes, aipac, jamaal bowman, cori bush",
-      "estado": "pendiente de revisar"
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "ya que",
+        "retoma": "En Washington hay una etiqueta…"
+      }
     }
   ]
 }
