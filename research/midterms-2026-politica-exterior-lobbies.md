@@ -2,6 +2,7 @@
 
 **Investigación para serie de Shorts / TikTok**
 Fecha de corte: 3 de noviembre de 2026 (día de la elección). Los resultados de esta noche **no** están incluidos.
+**Versión 2**: contrastada con un texto externo (ver `contraste-texto-externo.md`); se añadieron escaño abierto de Michigan, financiación de El-Sayed, coste de la guerra, petición de Rogers a AIPAC y donantes de UDP.
 
 > **Nota de rigor.** Las cifras proceden de prensa y trackers públicos (AP, NBC, CNBC, Reuters/Ipsos, Gallup, The Intercept, Axios, NYT vía terceros, etc.). Donde las fuentes discrepan se indica el rango. Antes de publicar un dato en pantalla, verificar contra la fuente primaria (FEC/OpenSecrets para dinero; Pentágono para bajas). Las afirmaciones de Tucker Carlson u otros comentaristas se presentan como *alegaciones*, no como hechos.
 
@@ -55,6 +56,8 @@ Por primera vez en décadas, una guerra en Oriente Medio no es "algo lejano": se
 
 **a) Datos duros**
 - Médico epidemiólogo, ex director de Salud de Detroit, hijo de inmigrantes egipcios, musulmán. Ya había perdido la primaria a gobernador de Michigan en 2018.
+- **Escaño abierto**: el senador demócrata Gary Peters anunció en 2025 que no se presentaba a la reelección, lo que abrió una primaria competida en un estado bisagra (con Mallory McMorrow como tercera aspirante relevante en los debates).
+- **Financiación**: según PolitiFact, es el único candidato de la primaria que **nunca ha aceptado donaciones de PACs corporativos** en ninguna de sus campañas, y prometió rechazar el apoyo de super PACs. *Matiz importante*: aun así se ha beneficiado de **gasto externo no coordinado** (p. ej. American Priorities PAC, un grupo anti-AIPAC, y Fighting for Michigan PAC) y, en la general, de **≈30 M$ del Senate Majority PAC** (el super PAC alineado con Chuck Schumer). No es correcto decir que no recibe "ningún tipo" de apoyo de PACs.
 - **5 de agosto de 2026**: gana la primaria demócrata al Senado por Michigan contra la congresista **Haley Stevens**: **48,5 % vs. 47,5 %** (≈15.000 votos de diferencia, ~741.000 vs. ~726.000 votos).
 - El super PAC vinculado a AIPAC (**United Democracy Project**, UDP) gastó **más de 30 millones de dólares** a favor de Stevens / en contra de El-Sayed (análisis de CNBC sobre datos de la FEC). Los grupos pro-Stevens le superaron varias veces en publicidad televisiva.
 - Inside Political Money lo califica como **la mayor derrota electoral en la historia de AIPAC**.
@@ -72,7 +75,7 @@ Es el experimento definitivo: ¿puede alguien que critica abiertamente la guerra
 ### Píldora 3 · El eje Mamdani–El-Sayed: la nueva izquierda urbana
 
 **a) Datos duros**
-- **Zohran Mamdani**, socialista democrático, ganó la alcaldía de Nueva York en noviembre de 2025 tras derrotar a Andrew Cuomo en la primaria, con una campaña centrada en el coste de la vida y posiciones muy críticas con el gobierno de Netanyahu.
+- **Zohran Mamdani**, socialista democrático, **primer alcalde musulmán** y primer alcalde de origen surasiático de Nueva York (en el cargo desde el 1 de enero de 2026), ganó la alcaldía en noviembre de 2025 tras derrotar a Andrew Cuomo en la primaria, con una campaña centrada en el coste de la vida y posiciones muy críticas con el gobierno de Netanyahu.
 - Mamdani respaldó públicamente a El-Sayed y declaró que su elección es de "importancia crítica" para Nueva York.
 - El-Sayed vinculó su campaña a Mamdani desde julio de 2025; sus rivales (y medios conservadores) usaron esa misma asociación como ataque.
 - Patrón común: candidatos jóvenes, musulmanes o hijos de inmigrantes, discurso económico (vivienda, sanidad, precios) + crítica a la ayuda militar incondicional a Israel + rechazo al dinero de AIPAC.
@@ -93,6 +96,8 @@ Es el experimento definitivo: ¿puede alguien que critica abiertamente la guerra
 - Trump celebró la victoria de El-Sayed en la primaria como "una gran noticia para el Partido Republicano", apostando a que es un rival más fácil.
 - Según The Washington Post (citado por The National), AIPAC dirigió **≈9 millones de dólares** a un grupo que apoya a Rogers, como gasto independiente (no contribución directa). *Dato a verificar en la fuente original.*
 - Perfil de seguridad nacional tradicional: halcón en Irán, apoyo firme a Israel, alineado con la Casa Blanca en la guerra.
+- **La paradoja**: según Axios, el entorno de Rogers **pidió a AIPAC que no emitiera anuncios a su favor**, temiendo que la marca le restara votos en Michigan, mientras animaba a los donantes de AIPAC a aportar a su propio PAC (Truthout informó de que asistió a tres recaudaciones organizadas por AIPAC en un día). Que un republicano pro-Israel no quiera el sello AIPAC en sus anuncios es el mejor indicador de cuánto ha cambiado la marca.
+- Nota de rigor: un texto que circula atribuye la derrota de John Cornyn (Texas, mayo de 2026, frente a Ken Paxton) a sus vínculos con AIPAC; **no hay fuentes fiables que lo respalden**: la causa documentada es el apoyo de Trump a Paxton. No usarlo.
 
 **b) Ángulo de conflicto**
 La misma red de dinero que intentó frenar a El-Sayed en la primaria demócrata ahora ayuda a su rival republicano. Para los seguidores de El-Sayed es la prueba de que el lobby "no tiene partido, tiene agenda"; para los de Rogers, es simplemente apoyar al candidato pro-Israel.
@@ -129,6 +134,7 @@ Demuestra que la presión no es solo contra la izquierda: un republicano antibel
 - **Mediados de junio**: "Memorando de Islamabad" (14 puntos), alto el fuego, no tratado de paz.
 - **Julio**: el acuerdo colapsa tras ataques a buques comerciales en Ormuz.
 - Bajas estadounidenses: cifras oficiales comunicadas en octubre de **21 muertos y 865 heridos** (las fuentes varían; verificar con el Pentágono).
+- **Coste para el contribuyente**: el secretario de Defensa, Pete Hegseth, estimó ante el Comité de Asignaciones del Senado (**21 de julio de 2026**) que la guerra había costado **37.500 millones de dólares**. La Casa Blanca pidió un suplemento de emergencia de **≈87.600 millones**, de los que **≈67.000 millones** van ligados a Irán. La senadora Jeanne Shaheen preguntó "cuánto tiempo deben pagar los contribuyentes una guerra que no apoyan".
 - Opinión pública: CNN (marzo) **59 % desaprueba** ir a la guerra, **68 % de los independientes**; Quinnipiac: independientes en contra **60–31**.
 
 **b) Ángulo de conflicto**
@@ -229,6 +235,8 @@ El método es tan eficaz como polémico: se castiga una posición sobre polític
 
 **a) Datos duros**
 - Gasto directo de UDP este ciclo: **≈53,4–53,6 millones** (CNBC hasta finales de septiembre; The Intercept). OpenSecrets: **>62 millones** incluyendo vehículos intermedios.
+- Recaudación de UDP: **≈104 millones** en el ciclo 2026 hasta junio (FactCheck.org, datos FEC). Su mayor donante es el propio AIPAC (≈30 M$).
+- **Megadonantes republicanos**: medios como Truthout y Responsible Statecraft (de línea crítica) informan de que la ofensiva contra El-Sayed se financió en buena parte con **megadonantes republicanos y de fuera de Michigan**. Es decir: dinero de donantes conservadores decidiendo una primaria demócrata. *Verificar nombre a nombre en la FEC (comité C00799031) antes de citarlo en pantalla.*
 - Balance en primarias demócratas (tracker de Inside Political Money, hasta agosto): de 23 carreras, **7 victorias claras y 10 derrotas**, más 5 derrotas de grupos afines.
 - Derrotas notables:
   - **Michigan Senado**: >30 M$ y pierde (El-Sayed).
@@ -288,6 +296,7 @@ Si la marca es tóxica, se esconde la marca, no el dinero. Esto conecta con un t
   2. **Reputacional**: la acusación de "antisionista" o "antisemita" puede definir una carrera política.
   3. **Institucional**: pérdida de acceso a redes de donantes y apoyos del partido.
 - Casos que funcionaron como aviso: Percy/Findley (años 80), Bowman y Bush (2024), Massie (2026).
+- Matiz: no es cierto que ser crítico con Israel signifique **siempre** el fin de una carrera: Rashida Tlaib o Ilhan Omar han sido reelegidas repetidamente. El efecto disuasorio funciona sobre todo por **anticipación**: la mayoría de legisladores evita el tema para no convertirse en objetivo.
 - Votaciones de resoluciones pro-Israel en el Congreso suelen ser casi unánimes, mientras la opinión pública está dividida: la brecha entre representantes y representados es la señal de alarma.
 - Contrapeso: aparecen voces judías progresistas (J Street, IfNotNow, Jewish Voice for Peace) que discuten la idea de que criticar al gobierno israelí sea antisemitismo; y también un aumento real de incidentes antisemitas que preocupa a la comunidad judía y que los defensores del lobby citan para justificar la firmeza.
 
@@ -359,6 +368,19 @@ Una sola noche que responde a tres preguntas: si el votante castiga una guerra, 
 - **Actualización**: tras el recuento, rehacer las píldoras 2, 4, 12 y 18 con resultados.
 
 ## Fuentes principales
+
+**Añadidas en la v2 (contraste con el texto externo):**
+- PolitiFact — [Debate de Michigan y financiación de campaña](https://politifact.com/article/2026/jul/08/michigan-debate-el-sayed-stevens-campaign-finance/)
+- JTA — [El-Sayed rechaza super PACs; un PAC anti-AIPAC gasta igualmente](https://www.jta.org/2026/07/07/politics/abdul-el-sayed-has-refused-super-pac-funding-an-anti-aipac-pac-says-it-will-spend-for-him-anyway)
+- Axios — [El super PAC de Schumer refuerza Michigan](https://www.axios.com/2026/09/16/abdul-el-sayed-michigan-senate-democrats-schumer)
+- Mediaite — [Rogers pide a AIPAC que no le haga anuncios](https://www.mediaite.com/media/news/republican-senate-candidate-tells-pro-israel-group-he-doesnt-want-their-help-defeating-abdul-el-sayed/)
+- Truthout — [Rogers en tres recaudaciones de AIPAC](https://truthout.org/articles/el-sayeds-gop-opponent-attended-3-aipac-hosted-fundraisers-in-1-day/) y [megadonantes contra El-Sayed](https://truthout.org/articles/aipac-backed-pac-pours-millions-into-beating-abdul-el-sayed-in-michigan/)
+- FactCheck.org — [United Democracy Project](https://www.factcheck.org/2026/08/united-democracy-project-3/)
+- AP vía WABE — [Hegseth: la guerra ha costado 37.500 M$](https://www.wabe.org/hegseth-estimates-iran-war-has-cost-37-5b-so-far/)
+- KATV — [La Casa Blanca pide 87.000 M$ de emergencia](https://katv.com/news/nation-world/white-house-seeks-87b-emergency-funding-as-iran-conflict-escalates-hegseth-testifies-dain-caine-trump-administration-strategy-senate-appropriations)
+- WBKO — [Paxton derrota a Cornyn](https://www.wbko.com/2026/05/27/paxton-defeats-cornyn-texas-gop-senate-primary-runoff/)
+
+**v1:**
 
 - Michigan Public / NPR — [El-Sayed gana la primaria](https://www.michiganpublic.org/2026-08-05/progressive-abdul-el-sayed-wins-michigans-democratic-primary-for-senate)
 - Bloomberg Government — [El-Sayed Fuels Progressive Momentum](https://news.bgov.com/bloomberg-government-news/el-sayed-wins-michigan-democratic-senate-primary-nbc-projects)
