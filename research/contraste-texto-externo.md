@@ -35,3 +35,11 @@ El texto externo tiene **buen enfoque narrativo pero datos genéricos o desactua
 - Datos Gallup 2026 (41 % palestinos vs. 36 % israelíes).
 - Caso Massie, NJ-11, PACs fantasma, retirada de avales de AIPAC (21-oct).
 - Aprobación de Trump (31–32 %) y voto genérico (D+11).
+
+## Decisiones editoriales finales (tuyas, aplicadas en guiones y en la investigación)
+
+1. **Megadonantes republicanos** → se usan, siempre con "según" (Truthout, Responsible Statecraft). Shorts 2 y 9.
+2. **"Tensiones con Irán"** → sustituido por **"guerra iniciada contra Irán"** en todo el material.
+3. **División de MAGA** → se afirma claramente como un hecho: "MAGA está partido en dos y ya no lo esconde" (Short 5).
+4. **Frases cargadas** → se mantienen cuando las respalda un dato demostrable en el mismo guion. Ejemplos: "Washington firma cheques para una guerra a diez mil kilómetros" (respaldo: 37.500 M$), "Donantes conservadores intentando elegir al candidato demócrata" (respaldo: según Truthout), "No es una retirada. Es un cambio de disfraz" (respaldo: UDP sigue activo y usó PACs pantalla), "Enfrente, el aparato del partido, sostenido por grandes donantes y lobbies".
+5. **Antisionismo** → "te pone en el punto de mira y, en muchos casos, te cuesta la carrera" (Bowman, Bush, Massie). Short 10.

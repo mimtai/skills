@@ -41,7 +41,7 @@ Fecha de corte: 3 de noviembre de 2026 (día de la elección). Los resultados de
 - Aprobación de Trump: **31 %** (mínimo histórico, Reuters/Ipsos, ~19 oct.) y **32 %** en la última medición (~26 oct.).
 - Voto genérico al Congreso (votantes registrados, Reuters/Ipsos, finales de octubre): **Demócratas 47 % – Republicanos 36 %**.
 - Los demócratas han liderado casi todas las encuestas de control del Congreso del año.
-- Factores de fondo: la guerra con Irán (desde el 28-feb-2026), el encarecimiento de la gasolina por la crisis de Ormuz (picos por encima de 4,40 $/galón a nivel nacional en primavera y >5 $ en California) y el desgaste habitual del partido en el poder en unas midterms.
+- Factores de fondo: la guerra iniciada contra Irán el 28-feb-2026, el encarecimiento de la gasolina por la crisis de Ormuz (picos por encima de 4,40 $/galón a nivel nacional en primavera y >5 $ en California) y el desgaste habitual del partido en el poder en unas midterms.
 - Históricamente, el partido del presidente pierde escaños en la Cámara en casi todas las elecciones de mitad de mandato.
 
 **b) Ángulo de conflicto**
@@ -138,7 +138,7 @@ Demuestra que la presión no es solo contra la izquierda: un republicano antibel
 - Opinión pública: CNN (marzo) **59 % desaprueba** ir a la guerra, **68 % de los independientes**; Quinnipiac: independientes en contra **60–31**.
 
 **b) Ángulo de conflicto**
-Trump ganó en 2024 prometiendo "no más guerras eternas". Ocho meses después de empezar ésta, hay soldados muertos, gasolina cara y ninguna victoria clara. Es la contradicción central de su mandato.
+Trump ganó en 2024 prometiendo "no más guerras eternas". Ocho meses después de iniciar ésta, hay soldados muertos, gasolina cara y ninguna victoria clara. Es la contradicción central de su mandato.
 
 **c) Hook (3 s)**
 > "Prometió no empezar guerras. Esta ya lleva ocho meses."
@@ -188,7 +188,7 @@ Un presidente estadounidense haciendo campaña en las elecciones de otro país, 
 - Encuestas: la mayoría de votantes republicanos sigue apoyando a Trump en Irán, pero una parte pide que la guerra termine pronto; los independientes están claramente en contra.
 
 **b) Ángulo de conflicto**
-La derecha populista nació criticando las guerras de Bush. Ahora su propio presidente está en una. El choque no es izquierda vs. derecha, sino "America First" vs. "Israel First", con acusaciones cruzadas de deslealtad y de antisemitismo.
+**MAGA está dividido, y es un hecho, no una hipótesis.** La derecha populista nació criticando las guerras de Bush. Ahora su propio presidente ha iniciado una. El choque no es izquierda vs. derecha, sino "America First" vs. "Israel First", con acusaciones cruzadas de deslealtad y de antisemitismo.
 
 **c) Hook (3 s)**
 > "La pelea más dura sobre Irán no es entre partidos. Es dentro de MAGA."
@@ -296,7 +296,7 @@ Si la marca es tóxica, se esconde la marca, no el dinero. Esto conecta con un t
   2. **Reputacional**: la acusación de "antisionista" o "antisemita" puede definir una carrera política.
   3. **Institucional**: pérdida de acceso a redes de donantes y apoyos del partido.
 - Casos que funcionaron como aviso: Percy/Findley (años 80), Bowman y Bush (2024), Massie (2026).
-- Matiz: no es cierto que ser crítico con Israel signifique **siempre** el fin de una carrera: Rashida Tlaib o Ilhan Omar han sido reelegidas repetidamente. El efecto disuasorio funciona sobre todo por **anticipación**: la mayoría de legisladores evita el tema para no convertirse en objetivo.
+- **Ser señalado como antisionista te pone en el punto de mira y puede costarte la carrera; en muchos casos ha sido así** (Bowman y Bush en 2024; Massie en 2026; Percy y Findley en los 80). Hay supervivientes como Rashida Tlaib o Ilhan Omar, en distritos muy seguros, pero el precio es alto, y la mayoría de legisladores lo evita por anticipación para no convertirse en objetivo.
 - Votaciones de resoluciones pro-Israel en el Congreso suelen ser casi unánimes, mientras la opinión pública está dividida: la brecha entre representantes y representados es la señal de alarma.
 - Contrapeso: aparecen voces judías progresistas (J Street, IfNotNow, Jewish Voice for Peace) que discuten la idea de que criticar al gobierno israelí sea antisemitismo; y también un aumento real de incidentes antisemitas que preocupa a la comunidad judía y que los defensores del lobby citan para justificar la firmeza.
 
