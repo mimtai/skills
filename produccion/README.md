@@ -12,6 +12,7 @@ Todo lo necesario para montar los 11 Shorts con la skill **edicion-video-shorts*
 | `build_short.py` | Monta el Short con los módulos 0, 2, 3, 4, 5 y 7 de la skill |
 | `add_voice_notes.py` | Módulo 6: notas de voz al inicio y al final |
 | `make_guiones.py` | Regenera `guiones.md` y `textos/` si cambias el JSON |
+| `calendario.md` | Días y horas de publicación (ES y Mizan) |
 
 ## Lo que tienes que preparar (checklist)
 
