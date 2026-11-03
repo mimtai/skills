@@ -32,3 +32,25 @@ for s in d["shorts"]:
           f"- Etiquetas: {s['etiquetas']}", ""]
 open(os.path.join(AQUI, "guiones.md"), "w", encoding="utf-8").write("\n".join(L))
 print("OK guiones.md +", len(d["shorts"]), "textos")
+
+# ---- Versión árabe (canal Mizan) ----
+os.makedirs(os.path.join(AQUI, "textos_ar"), exist_ok=True)
+A = ["# سكربتات · الانتخابات النصفية 2026: الحرب والمال واللوبيات", "",
+     "Adaptación al árabe estándar (fusha) para el canal **Mizan**. Se monta con `--lang ar`; las voces van en `voces_ar/NN.mp3`.", ""]
+for s in d["shorts"]:
+    a = s["ar"]; nn = f"{s['id']:02d}"
+    open(os.path.join(AQUI, "textos_ar", f"{nn}_{s['slug']}.txt"), "w", encoding="utf-8").write(
+        a["gancho"] + "\n\n" + a["cuerpo"].replace(". ", ".\n") + "\n\n" + a["cierre"] + "\n")
+    A += ["---", "", f"## SHORT {s['id']} · {s['tema']}", "",
+          f"**Rótulo** · `{a['titular']}` / `{a['subtitulo']}` · `{a.get('fecha', d['fecha_por_defecto_ar'])}`  ",
+          f"**Archivos**: `clips/{nn}.mp4` + `voces_ar/{nn}.mp3`", "",
+          "**الافتتاح (0–3 ث)**  ", a["gancho"], "",
+          "**النص**  ", a["cuerpo"], "",
+          "**الختام**  ", a["cierre"], "",
+          *([f"**🔁 Bucle**: corte tras «{a['bucle']['corte_tras']}» → «{a['bucle']['retoma']}»", ""] if a.get("bucle") else []),
+          "**Subida**",
+          f"- العنوان: `{a['titulo_subida']}`",
+          f"- الوصف: {a['descripcion']} {a['hashtags']}",
+          f"- الكلمات المفتاحية: {a['etiquetas']}", ""]
+open(os.path.join(AQUI, "guiones_ar.md"), "w", encoding="utf-8").write("\n".join(A))
+print("OK guiones_ar.md +", len(d["shorts"]), "textos_ar")

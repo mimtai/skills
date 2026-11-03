@@ -209,6 +209,32 @@ def valle_energia(path, est, ventana=0.3):
     return bt
 
 
+FUENTES_AR = {"Inter Display Black": "Noto Kufi Arabic Black", "Inter Display ExtraBold": "Noto Kufi Arabic",
+              "Inter SemiBold": "Noto Kufi Arabic"}
+
+
+def arabizar(ass):
+    """Versión árabe: fuente árabe, negrita y Spacing 0 (el espaciado rompe las letras enlazadas)."""
+    out = []
+    for ln in ass.splitlines():
+        if ln.startswith("Style:") and not ln.startswith("Style: Box"):
+            f = ln[len("Style: "):].split(",")
+            f[1] = FUENTES_AR.get(f[1], f[1])
+            f[7] = "-1"      # Bold
+            f[13] = "0"      # Spacing
+            f[22] = "-1"     # Encoding -1: libass detecta la dirección (RTL) del párrafo
+            ln = "Style: " + ",".join(f)
+        elif ln.startswith("Dialogue:") and ",Box," not in ln:
+            RLM = "\u200f"
+            head, sep, txt = ln.partition(",,0,0,0,,")
+            if txt.startswith("{"):
+                i = txt.index("}") + 1
+                txt = txt[:i] + RLM + txt[i:]
+            ln = head + sep + txt.replace("\\N", "\\N" + RLM)
+        out.append(ln)
+    return "\n".join(out) + "\n"
+
+
 def cadena_video(w, h, fondo):
     if w and h and h > w:  # ya vertical
         return "[0:v]tpad=stop_mode=clone:stop_duration=120,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1"
@@ -233,15 +259,22 @@ def main():
     ap.add_argument("--umbral", type=float, default=-38)
     ap.add_argument("--corte", type=float, help="fuerza el punto de corte del bucle (s)")
     ap.add_argument("--sin-bucle", action="store_true")
+    ap.add_argument("--lang", default="es", choices=["es", "ar"], help="ar = versión árabe para Mizan")
     ap.add_argument("--json", default=os.path.join(AQUI, "shorts.json"))
     ap.add_argument("--out-dir", default=os.path.join(AQUI, "salida"))
     a = ap.parse_args()
 
     data = json.load(open(a.json, encoding="utf-8"))
     sh = next(s for s in data["shorts"] if s["id"] == a.id)
-    fecha = sh.get("fecha", data["fecha_por_defecto"])
+    if a.lang == "ar":
+        sh = {**sh, **sh["ar"]}
+        if "bucle" not in sh["ar"]:
+            sh.pop("bucle", None)
+        fecha = sh["ar"].get("fecha", data["fecha_por_defecto_ar"])
+    else:
+        fecha = sh.get("fecha", data["fecha_por_defecto"])
     os.makedirs(a.out_dir, exist_ok=True)
-    base = os.path.join(a.out_dir, f"short_{a.id:02d}_{sh['slug']}")
+    base = os.path.join(a.out_dir, f"short_{a.id:02d}_{sh['slug']}" + ("_ar" if a.lang == "ar" else ""))
 
     # Paso 0
     w, h, vdur, has_a = probe(a.video)
@@ -261,7 +294,7 @@ def main():
         tiempos = tiempos_palabras(palabras, tramos)
         cps = len(texto) / sum(e - s for s, e in tramos)
         print(f"[4] {len(tramos)} tramos de voz, {cps:.1f} caracteres/s hablados"
-              + ("  (fuera de 15–19: revisa la lectura o el umbral)" if not 13 <= cps <= 21 else ""))
+              + ("  (fuera de 15–19: revisa la lectura o el umbral)" if a.lang == "es" and not 13 <= cps <= 21 else ""))
     else:
         dur = a.t or min(vdur - a.ss, 59)
         tramos = [(0.3, dur - 0.5)]
@@ -283,7 +316,7 @@ def main():
               + ("" if a.corte else "  (si se oye media palabra, ajusta con --corte)"))
 
     ass = base + ".ass"
-    open(ass, "w", encoding="utf-8").write(ass_doc(sh, fecha, dur, palabras, tiempos, bucle=bucle))
+    open(ass, "w", encoding="utf-8").write((arabizar if a.lang == "ar" else (lambda x: x))(ass_doc(sh, fecha, dur, palabras, tiempos, bucle=bucle)))
 
     vf = cadena_video(w, h, a.fondo) + f",ass='{ass}',format=yuv420p[v]"
     cmd = ["ffmpeg", "-v", "error", "-y", "-ss", str(a.ss), "-t", str(dur), "-i", a.video]

@@ -86,9 +86,27 @@ La última frase enlaza con el gancho, así que al reiniciarse el Short la frase
 | 9 | "Porque" | "El lobby más temido de Washington…" |
 | 10 | "ya que" | "En Washington hay una etiqueta…" |
 
+## Versión árabe (canal Mizan)
+
+Los 11 guiones tienen adaptación al árabe estándar en `shorts.json` (campo `ar`), en `guiones_ar.md` y en `textos_ar/`.
+
+- **Voces**: `voces_ar/00.mp3` … `10.mp3`, grabando el cierre completo igual que en español.
+- **Clips**: se reutilizan los mismos `clips/NN.mp4`.
+- **Montar**: `python3 build_short.py --id 4 --lang ar --video clips/04.mp4 --voz voces_ar/04.mp3` → `salida/short_04_paradoja_rogers_ar.mp4`
+- **Fuente**: instala **Noto Kufi Arabic** (gratuita, Google Fonts) con los pesos Bold y Black. El script ya pone la fuente árabe, la negrita, el espaciado 0 (para no romper las letras enlazadas) y la dirección de derecha a izquierda.
+- **Bucles árabes**: 0 «لأن هناك», 1 «لأنه», 2 «وسنقول من جديد إنهم», 3 «والسؤال:», 4 «لأنه», 5 «وكل ذلك لأنه», 7 «لأن», 9 «لأن», 10 «لأنّه». Los Shorts 6 y 8 no tienen bucle.
+- **Probado**: Short 4 en árabe, con las letras bien enlazadas, subtítulos de derecha a izquierda y la palabra activa resaltada.
+
+```bash
+# Montar todos en árabe
+for i in $(seq 0 10); do n=$(printf %02d $i); \
+  [ -f clips/$n.mp4 ] && [ -f voces_ar/$n.mp3 ] && python3 build_short.py --id $i --lang ar --video clips/$n.mp4 --voz voces_ar/$n.mp3; done
+```
+
 ## Estado de revisión
 
-- ✅ Los 11 guiones están revisados y listos para grabar
+- ✅ Los 11 guiones en español están revisados y listos para grabar
+- ⏳ Versión árabe: pendiente de tu revisión (o de la del equipo de Mizan)
 
 ## Diseño (skill, módulo 5)
 
