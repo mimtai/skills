@@ -65,7 +65,7 @@ for i in $(seq 0 10); do n=$(printf %02d $i); \
 
 El resultado queda en `salida/`: el `.mp4`, el `.ass` del rótulo y subtítulos, y 3 fotogramas de control (`_inicio`, `_medio`, `_final`). Revisa los fotogramas antes de subir.
 
-## Bucle (Shorts 0, 1, 2, 3 y 7)
+## Bucle (Shorts 0, 1, 2, 3, 4 y 7)
 
 La última frase enlaza con el gancho, así que al reiniciarse el Short la frase se completa sola.
 - **Graba el cierre completo**, con entonación de que la frase sigue (p. ej. "…Porque Trump hizo campaña…").
@@ -80,12 +80,13 @@ La última frase enlaza con el gancho, así que al reiniciarse el Short la frase
 | 1 | "Ya que" | "Prometió no empezar guerras…" |
 | 2 | "Volveremos a decir que" | "Le lanzaron treinta millones…" |
 | 3 | "¿Acaso" | "¿Lo que empezó en Nueva York…?" |
+| 4 | "Porque" | "Republicano y pro-israelí…" |
 | 7 | "Porque" | "Trump hizo campaña…" |
 
 ## Estado de revisión
 
-- ✅ Revisados: 0, 1, 2, 3 y 7
-- ⏳ **Pendientes: 4, 5 y 6**, y después 8, 9 y 10
+- ✅ Revisados: 0, 1, 2, 3, 4 y 7
+- ⏳ **Pendientes: 5 y 6**, y después 8, 9 y 10
 
 ## Diseño (skill, módulo 5)
 

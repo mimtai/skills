@@ -89,15 +89,19 @@
       "tema": "El republicano que no quiere el sello AIPAC",
       "titular": "SIN LOGO AIPAC",
       "subtitulo": "LA PARADOJA DE ROGERS",
-      "gancho": "Republicano, pro-Israel… y no quiere anuncios de AIPAC.",
+      "gancho": "Republicano y pro-israelí… pero rechaza los anuncios de AIPAC.",
       "cuerpo": "Mike Rogers, ex agente del FBI y candidato de Trump al Senado por Michigan, es un halcón con Irán. Pero según Axios, su equipo pidió a AIPAC que no hiciera anuncios a su favor. A la vez, animaba a los donantes del lobby a aportar a su propio PAC. Según The Washington Post, unos nueve millones vinculados a AIPAC acabaron en un grupo que le apoya. El dinero sí. El logo no. Porque en Michigan la marca AIPAC ya es tóxica.",
-      "cierre": "Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Sígueme.",
+      "cierre": "Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Porque republicano y pro-israelí…",
       "imagenes": "Rogers en campaña, logo AIPAC, anuncios electorales.",
       "titulo_subida": "Quiere el dinero, no el logo: la paradoja AIPAC de Rogers #Shorts",
       "descripcion": "El candidato republicano en Michigan pidió a AIPAC que no hiciera anuncios a su favor. Fuentes: Axios (vía Mediaite), The Washington Post (vía The National), Truthout.",
       "hashtags": "#MikeRogers #AIPAC #Michigan #Midterms2026",
       "etiquetas": "mike rogers, aipac, michigan senado, republicanos, lobby pro israel, super pac, elecciones eeuu, el-sayed",
-      "estado": "pendiente de revisar"
+      "estado": "revisado",
+      "bucle": {
+        "corte_tras": "Porque",
+        "retoma": "Republicano y pro-israelí…"
+      }
     },
     {
       "id": 5,

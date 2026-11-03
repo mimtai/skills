@@ -4,7 +4,7 @@ Generado desde `shorts.json`, así que edita ese archivo y vuelve a ejecutar `py
 
 Para cada Short: **titular / subtítulo** del rótulo, **gancho, cuerpo y cierre** para grabar seguidos en `voces/NN.mp3`, y los datos de subida. Duración estimada a 16 caracteres por segundo.
 
-**Estado**: ✅ revisados 0, 1, 2, 3, 7 · ⏳ pendientes 4, 5, 6, 8, 9, 10
+**Estado**: ✅ revisados 0, 1, 2, 3, 4, 7 · ⏳ pendientes 5, 6, 8, 9, 10
 
 ---
 
@@ -108,19 +108,21 @@ Zohran Mamdani es el primer alcalde musulmán de Nueva York. Ganó con una campa
 
 ---
 
-## ⏳ SHORT 4 · El republicano que no quiere el sello AIPAC
+## ✅ SHORT 4 · El republicano que no quiere el sello AIPAC
 
 **Rótulo** · `SIN LOGO AIPAC` / `LA PARADOJA DE ROGERS` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~34 s · Archivos: `clips/04.mp4` + `voces/04.mp3`
+**Duración estimada**: ~36 s · Archivos: `clips/04.mp4` + `voces/04.mp3`
 
 **GANCHO (0–3 s)**  
-Republicano, pro-Israel… y no quiere anuncios de AIPAC.
+Republicano y pro-israelí… pero rechaza los anuncios de AIPAC.
 
 **CUERPO**  
 Mike Rogers, ex agente del FBI y candidato de Trump al Senado por Michigan, es un halcón con Irán. Pero según Axios, su equipo pidió a AIPAC que no hiciera anuncios a su favor. A la vez, animaba a los donantes del lobby a aportar a su propio PAC. Según The Washington Post, unos nueve millones vinculados a AIPAC acabaron en un grupo que le apoya. El dinero sí. El logo no. Porque en Michigan la marca AIPAC ya es tóxica.
 
 **CIERRE**  
-Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Sígueme.
+Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Porque republicano y pro-israelí…
+
+**🔁 Bucle**: corto el audio tras «Porque», que enlaza con «Republicano y pro-israelí…».
 
 **Imágenes**: Rogers en campaña, logo AIPAC, anuncios electorales.
 
