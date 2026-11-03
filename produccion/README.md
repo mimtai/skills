@@ -65,6 +65,28 @@ for i in $(seq 0 10); do n=$(printf %02d $i); \
 
 El resultado queda en `salida/`: el `.mp4`, el `.ass` del rótulo y subtítulos, y 3 fotogramas de control (`_inicio`, `_medio`, `_final`). Revisa los fotogramas antes de subir.
 
+## Bucle (Shorts 0, 1, 2, 3 y 7)
+
+La última frase enlaza con el gancho, así que al reiniciarse el Short la frase se completa sola.
+- **Graba el cierre completo**, con entonación de que la frase sigue (p. ej. "…Porque Trump hizo campaña…").
+- El script **corta el audio justo después** de las palabras de `bucle.corte_tras` (en el hueco entre palabras más cercano), con un microfundido de 30 ms para que no haya clic.
+- El rótulo queda **fijo, sin animación de entrada**, para que el salto del final al principio no se note.
+- Si el corte se come media palabra o deja aire: `--corte 41.85` (segundos exactos). Para desactivarlo: `--sin-bucle`.
+- Consejo visual: que el final del clip se parezca al primer fotograma (mismo plano o misma persona).
+
+| Short | Corte tras… | Enlaza con… |
+|---|---|---|
+| 0 | "Porque hay" | "Tres preguntas. Una noche…" |
+| 1 | "Ya que" | "Prometió no empezar guerras…" |
+| 2 | "Volveremos a decir que" | "Le lanzaron treinta millones…" |
+| 3 | "¿Acaso" | "¿Lo que empezó en Nueva York…?" |
+| 7 | "Porque" | "Trump hizo campaña…" |
+
+## Estado de revisión
+
+- ✅ Revisados: 0, 1, 2, 3 y 7
+- ⏳ **Pendientes: 4, 5 y 6**, y después 8, 9 y 10
+
 ## Diseño (skill, módulo 5)
 
 - Titular en franja roja `#D7141A` (y 300–412), Inter Display Black 86, en mayúsculas, entrando desde la izquierda.

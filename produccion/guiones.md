@@ -4,21 +4,25 @@ Generado desde `shorts.json`, así que edita ese archivo y vuelve a ejecutar `py
 
 Para cada Short: **titular / subtítulo** del rótulo, **gancho, cuerpo y cierre** para grabar seguidos en `voces/NN.mp3`, y los datos de subida. Duración estimada a 16 caracteres por segundo.
 
+**Estado**: ✅ revisados 0, 1, 2, 3, 7 · ⏳ pendientes 4, 5, 6, 8, 9, 10
+
 ---
 
-## SHORT 0 · Qué mirar esta noche (publicar HOY)
+## ✅ SHORT 0 · Qué mirar esta noche (publicar HOY)
 
 **Rótulo** · `NOCHE ELECTORAL` / `MIDTERMS EE. UU.` · Fecha: `3 Noviembre 2026`  
-**Duración estimada**: ~37 s · Archivos: `clips/00.mp4` + `voces/00.mp3`
+**Duración estimada**: ~43 s · Archivos: `clips/00.mp4` + `voces/00.mp3`
 
 **GANCHO (0–3 s)**  
-Tres preguntas. Una noche. Y una guerra en juego.
+Tres preguntas. Una noche. Y una guerra en juego. Son las tres cartas que hay encima de la mesa.
 
 **CUERPO**  
 Hoy Estados Unidos vota en las elecciones de mitad de mandato. Primera pregunta: ¿castigan los votantes la guerra iniciada contra Irán? Trump llega con un treinta y dos por ciento de aprobación, según Reuters e Ipsos. Segunda pregunta: ¿sigue comprando elecciones el dinero? El lobby pro-Israel AIPAC ha gastado más de cincuenta millones este ciclo. Tercera pregunta: ¿puede la nueva izquierda ganar fuera de las grandes ciudades? Todo se decide en Michigan, entre Abdul El-Sayed y Mike Rogers.
 
 **CIERRE**  
-Mañana te cuento quién ganó cada una. Sígueme.
+Mañana te cuento quién ganó cada una. Porque hay tres preguntas, una noche. Y una guerra…
+
+**🔁 Bucle**: corto el audio tras «Porque hay», que enlaza con «Tres preguntas. Una noche…».
 
 **Imágenes**: Colas de votación, mapa de EE. UU., El-Sayed y Rogers en mitin.
 
@@ -29,19 +33,21 @@ Mañana te cuento quién ganó cada una. Sígueme.
 
 ---
 
-## SHORT 1 · Un referéndum sobre una guerra
+## ✅ SHORT 1 · Un referéndum sobre una guerra
 
 **Rótulo** · `VOTAR UNA GUERRA` / `IRÁN PESA EN LAS URNAS` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~40 s · Archivos: `clips/01.mp4` + `voces/01.mp3`
+**Duración estimada**: ~46 s · Archivos: `clips/01.mp4` + `voces/01.mp3`
 
 **GANCHO (0–3 s)**  
 Prometió no empezar guerras. Esta ya lleva ocho meses.
 
 **CUERPO**  
-El veintiocho de febrero, Estados Unidos e Israel iniciaron una guerra contra Irán. Irán cerró el estrecho de Ormuz y la gasolina se disparó. Según el Pentágono, la guerra ya ha costado treinta y siete mil quinientos millones de dólares. Y la Casa Blanca pide ochenta y siete mil millones más. Mientras las familias pagan la gasolina y el alquiler, Washington firma cheques para una guerra a diez mil kilómetros. En marzo, el cincuenta y nueve por ciento ya la desaprobaba. Entre los independientes, el sesenta y ocho.
+El veintiocho de febrero, Estados Unidos e Israel iniciaron una guerra contra Irán. Irán cerró el estrecho de Ormuz y se disparó el precio del combustible, no solo el de la gasolina. Según el Pentágono, la guerra ya ha costado treinta y siete mil quinientos millones de dólares. Y la Casa Blanca pide ochenta y siete mil millones más. Mientras las familias pagan el combustible y el alquiler, Washington firma cheques para una guerra a diez mil kilómetros. En marzo, el cincuenta y nueve por ciento ya la desaprobaba. Entre los independientes, el sesenta y ocho.
 
 **CIERRE**  
-Hoy se vota si esta guerra merecía la pena. ¿Tú la habrías votado?
+Hoy se vota si esta guerra merecía la pena. Te leo en comentarios. ¿Tú lo habrías votado? Ya que prometió no empezar guerras…
+
+**🔁 Bucle**: corto el audio tras «Ya que», que enlaza con «Prometió no empezar guerras…».
 
 **Imágenes**: Ataques de febrero, petroleros en Ormuz, surtidores con precios, Hegseth en el Senado.
 
@@ -52,10 +58,10 @@ Hoy se vota si esta guerra merecía la pena. ¿Tú la habrías votado?
 
 ---
 
-## SHORT 2 · El candidato que el dinero no pudo frenar
+## ✅ SHORT 2 · El candidato que el dinero no pudo frenar
 
 **Rótulo** · `30 MILLONES` / `Y AUN ASÍ GANÓ` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~42 s · Archivos: `clips/02.mp4` + `voces/02.mp3`
+**Duración estimada**: ~46 s · Archivos: `clips/02.mp4` + `voces/02.mp3`
 
 **GANCHO (0–3 s)**  
 Le lanzaron treinta millones de dólares encima. Y ganó.
@@ -64,7 +70,9 @@ Le lanzaron treinta millones de dólares encima. Y ganó.
 Abdul El-Sayed es médico, hijo de inmigrantes egipcios y musulmán. Nunca ha aceptado dinero de PACs corporativos y critica abiertamente las guerras de Gaza e Irán. En la primaria demócrata al Senado por Michigan, el super PAC vinculado a AIPAC gastó más de treinta millones para apoyar a su rival, Haley Stevens. Según medios como Truthout, buena parte vino de megadonantes republicanos y de fuera de Michigan. Donantes conservadores intentando elegir al candidato demócrata. Resultado: cuarenta y ocho y medio contra cuarenta y siete y medio.
 
 **CIERRE**  
-Hoy se enfrenta al republicano Mike Rogers. Sígueme para el resultado.
+¿Tú qué piensas? ¿Qué va a pasar? Hoy se enfrenta al republicano Mike Rogers. Volveremos a decir que le lanzaron treinta millones de dólares…
+
+**🔁 Bucle**: corto el audio tras «Volveremos a decir que», que enlaza con «Le lanzaron treinta millones…».
 
 **Imágenes**: El-Sayed en mitin en Detroit, anuncios de la primaria, gráfico 48,5 / 47,5.
 
@@ -75,19 +83,21 @@ Hoy se enfrenta al republicano Mike Rogers. Sígueme para el resultado.
 
 ---
 
-## SHORT 3 · De Nueva York al Senado
+## ✅ SHORT 3 · De Nueva York al Senado
 
 **Rótulo** · `EFECTO MAMDANI` / `LLEGA A MICHIGAN` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~39 s · Archivos: `clips/03.mp4` + `voces/03.mp3`
+**Duración estimada**: ~43 s · Archivos: `clips/03.mp4` + `voces/03.mp3`
 
 **GANCHO (0–3 s)**  
-Lo que empezó en Nueva York puede llegar hoy al Senado.
+¿Lo que empezó en Nueva York puede llegar hoy al Senado?
 
 **CUERPO**  
 Zohran Mamdani es el primer alcalde musulmán de Nueva York. Ganó con una campaña sobre el coste de la vida y una postura muy crítica con el gobierno de Netanyahu. Ahora pide el voto para El-Sayed: dice que su elección es de importancia crítica. El patrón se repite: candidatos jóvenes, hijos de inmigrantes, discurso económico y cero dinero de AIPAC. Enfrente, el aparato del partido, sostenido por grandes donantes y lobbies. La batalla ya no es solo entre demócratas y republicanos. Es dentro del Partido Demócrata.
 
 **CIERRE**  
-¿Moda de gran ciudad o nuevo modelo? Dímelo abajo.
+¿Moda de gran ciudad o nuevo modelo? Dímelo abajo. ¿Acaso lo que empezó en Nueva York puede llegar hoy al Senado?
+
+**🔁 Bucle**: corto el audio tras «¿Acaso», que enlaza con «¿Lo que empezó en Nueva York…?».
 
 **Imágenes**: Mamdani en la toma de posesión, El-Sayed y Mamdani juntos, mítines con público joven.
 
@@ -98,7 +108,7 @@ Zohran Mamdani es el primer alcalde musulmán de Nueva York. Ganó con una campa
 
 ---
 
-## SHORT 4 · El republicano que no quiere el sello AIPAC
+## ⏳ SHORT 4 · El republicano que no quiere el sello AIPAC
 
 **Rótulo** · `SIN LOGO AIPAC` / `LA PARADOJA DE ROGERS` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~34 s · Archivos: `clips/04.mp4` + `voces/04.mp3`
@@ -121,7 +131,7 @@ Cuando hasta tus aliados esconden tu nombre, algo ha cambiado. Sígueme.
 
 ---
 
-## SHORT 5 · Votó contra la guerra y su partido lo echó
+## ⏳ SHORT 5 · Votó contra la guerra y su partido lo echó
 
 **Rótulo** · `MAGA DIVIDIDO` / `EL CASO MASSIE` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~41 s · Archivos: `clips/05.mp4` + `voces/05.mp3`
@@ -144,7 +154,7 @@ La guerra más dura por Irán no es entre partidos. Es dentro de MAGA.
 
 ---
 
-## SHORT 6 · Netanyahu en la Sala de Situación
+## ⏳ SHORT 6 · Netanyahu en la Sala de Situación
 
 **Rótulo** · `SALA DE SITUACIÓN` / `CÓMO EMPEZÓ LA GUERRA` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~41 s · Archivos: `clips/06.mp4` + `voces/06.mp3`
@@ -167,10 +177,10 @@ Once de febrero. Netanyahu visita a Trump y, según The New York Times, hace una
 
 ---
 
-## SHORT 7 · Trump hizo campaña en otro país
+## ✅ SHORT 7 · Trump hizo campaña en otro país
 
 **Rótulo** · `DOS ELECCIONES` / `ISRAEL Y EE. UU.` · Fecha: `Noviembre 2026`  
-**Duración estimada**: ~37 s · Archivos: `clips/07.mp4` + `voces/07.mp3`
+**Duración estimada**: ~39 s · Archivos: `clips/07.mp4` + `voces/07.mp3`
 
 **GANCHO (0–3 s)**  
 Trump hizo campaña… en las elecciones de otro país.
@@ -179,7 +189,9 @@ Trump hizo campaña… en las elecciones de otro país.
 Israel votó a finales de octubre. Y Trump pidió públicamente a los israelíes que devolvieran a Netanyahu al poder para terminar la guerra contra Irán. Netanyahu, a su vez, aseguró que con él en el cargo Trump podría volver a atacar. Resultado: el Likud queda primero, pero sin mayoría clara. Su rival, Gadi Eisenkot, también reclama la victoria. Una semana después vota Estados Unidos. Dos elecciones que se cruzan. Y una pregunta encima de la mesa: si vuelven las bombas.
 
 **CIERRE**  
-Lo que pase hoy en EE. UU. también se mira en Jerusalén. Sígueme.
+¿Y tú? ¿Crees que lo que está pasando en EE. UU. también se mira en Tel Aviv? Porque Trump hizo campaña…
+
+**🔁 Bucle**: corto el audio tras «Porque», que enlaza con «Trump hizo campaña…».
 
 **Imágenes**: Colegios electorales israelíes, Netanyahu y Eisenkot, Trump.
 
@@ -190,7 +202,7 @@ Lo que pase hoy en EE. UU. también se mira en Jerusalén. Sígueme.
 
 ---
 
-## SHORT 8 · Cómo funciona la máquina AIPAC
+## ⏳ SHORT 8 · Cómo funciona la máquina AIPAC
 
 **Rótulo** · `LA MÁQUINA AIPAC` / `70 AÑOS EN WASHINGTON` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~40 s · Archivos: `clips/08.mp4` + `voces/08.mp3`
@@ -213,7 +225,7 @@ En el próximo vídeo, por qué esa máquina empieza a fallar.
 
 ---
 
-## SHORT 9 · El lobby se quita el nombre
+## ⏳ SHORT 9 · El lobby se quita el nombre
 
 **Rótulo** · `SIN NOMBRE` / `PERO CON DINERO` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~40 s · Archivos: `clips/09.mp4` + `voces/09.mp3`
@@ -236,7 +248,7 @@ Antes de creerte un anuncio electoral, mira quién lo paga.
 
 ---
 
-## SHORT 10 · La etiqueta que asusta a Washington
+## ⏳ SHORT 10 · La etiqueta que asusta a Washington
 
 **Rótulo** · `EL FACTOR ISRAEL` / `MIEDO Y FRACTURA` · Fecha: `Noviembre 2026`  
 **Duración estimada**: ~40 s · Archivos: `clips/10.mp4` + `voces/10.mp3`

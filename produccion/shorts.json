@@ -9,14 +9,19 @@
       "titular": "NOCHE ELECTORAL",
       "subtitulo": "MIDTERMS EE. UU.",
       "fecha": "3 Noviembre 2026",
-      "gancho": "Tres preguntas. Una noche. Y una guerra en juego.",
+      "gancho": "Tres preguntas. Una noche. Y una guerra en juego. Son las tres cartas que hay encima de la mesa.",
       "cuerpo": "Hoy Estados Unidos vota en las elecciones de mitad de mandato. Primera pregunta: ¿castigan los votantes la guerra iniciada contra Irán? Trump llega con un treinta y dos por ciento de aprobación, según Reuters e Ipsos. Segunda pregunta: ¿sigue comprando elecciones el dinero? El lobby pro-Israel AIPAC ha gastado más de cincuenta millones este ciclo. Tercera pregunta: ¿puede la nueva izquierda ganar fuera de las grandes ciudades? Todo se decide en Michigan, entre Abdul El-Sayed y Mike Rogers.",
-      "cierre": "Mañana te cuento quién ganó cada una. Sígueme.",
+      "cierre": "Mañana te cuento quién ganó cada una. Porque hay tres preguntas, una noche. Y una guerra…",
       "imagenes": "Colas de votación, mapa de EE. UU., El-Sayed y Rogers en mitin.",
       "titulo_subida": "3 preguntas que decide hoy EE. UU. 🇺🇸 #Shorts",
       "descripcion": "Midterms 2026: la guerra iniciada contra Irán, el dinero de AIPAC y la nueva izquierda, a prueba hoy. Fuentes: Reuters/Ipsos, CNBC, AP.",
       "hashtags": "#Midterms2026 #EEUU #Elecciones #Michigan",
-      "etiquetas": "midterms 2026, elecciones estados unidos, el-sayed, mike rogers, aipac, guerra irán, trump aprobación, senado eeuu"
+      "etiquetas": "midterms 2026, elecciones estados unidos, el-sayed, mike rogers, aipac, guerra irán, trump aprobación, senado eeuu",
+      "bucle": {
+        "corte_tras": "Porque hay",
+        "retoma": "Tres preguntas. Una noche…"
+      },
+      "estado": "revisado"
     },
     {
       "id": 1,
@@ -25,13 +30,18 @@
       "titular": "VOTAR UNA GUERRA",
       "subtitulo": "IRÁN PESA EN LAS URNAS",
       "gancho": "Prometió no empezar guerras. Esta ya lleva ocho meses.",
-      "cuerpo": "El veintiocho de febrero, Estados Unidos e Israel iniciaron una guerra contra Irán. Irán cerró el estrecho de Ormuz y la gasolina se disparó. Según el Pentágono, la guerra ya ha costado treinta y siete mil quinientos millones de dólares. Y la Casa Blanca pide ochenta y siete mil millones más. Mientras las familias pagan la gasolina y el alquiler, Washington firma cheques para una guerra a diez mil kilómetros. En marzo, el cincuenta y nueve por ciento ya la desaprobaba. Entre los independientes, el sesenta y ocho.",
-      "cierre": "Hoy se vota si esta guerra merecía la pena. ¿Tú la habrías votado?",
+      "cuerpo": "El veintiocho de febrero, Estados Unidos e Israel iniciaron una guerra contra Irán. Irán cerró el estrecho de Ormuz y se disparó el precio del combustible, no solo el de la gasolina. Según el Pentágono, la guerra ya ha costado treinta y siete mil quinientos millones de dólares. Y la Casa Blanca pide ochenta y siete mil millones más. Mientras las familias pagan el combustible y el alquiler, Washington firma cheques para una guerra a diez mil kilómetros. En marzo, el cincuenta y nueve por ciento ya la desaprobaba. Entre los independientes, el sesenta y ocho.",
+      "cierre": "Hoy se vota si esta guerra merecía la pena. Te leo en comentarios. ¿Tú lo habrías votado? Ya que prometió no empezar guerras…",
       "imagenes": "Ataques de febrero, petroleros en Ormuz, surtidores con precios, Hegseth en el Senado.",
       "titulo_subida": "La guerra contra Irán ya cuesta 37.500 millones a EE. UU. #Shorts",
       "descripcion": "El coste de la guerra iniciada contra Irán, convertido en tema de campaña. Fuentes: AP (comparecencia de Hegseth, 21-jul-2026), CNN, Quinnipiac.",
       "hashtags": "#Irán #Midterms2026 #Trump #EEUU",
-      "etiquetas": "guerra irán, coste guerra, hegseth, estrecho de ormuz, precio gasolina, midterms, trump, encuestas"
+      "etiquetas": "guerra irán, coste guerra, hegseth, estrecho de ormuz, precio gasolina, midterms, trump, encuestas",
+      "bucle": {
+        "corte_tras": "Ya que",
+        "retoma": "Prometió no empezar guerras…"
+      },
+      "estado": "revisado"
     },
     {
       "id": 2,
@@ -41,12 +51,17 @@
       "subtitulo": "Y AUN ASÍ GANÓ",
       "gancho": "Le lanzaron treinta millones de dólares encima. Y ganó.",
       "cuerpo": "Abdul El-Sayed es médico, hijo de inmigrantes egipcios y musulmán. Nunca ha aceptado dinero de PACs corporativos y critica abiertamente las guerras de Gaza e Irán. En la primaria demócrata al Senado por Michigan, el super PAC vinculado a AIPAC gastó más de treinta millones para apoyar a su rival, Haley Stevens. Según medios como Truthout, buena parte vino de megadonantes republicanos y de fuera de Michigan. Donantes conservadores intentando elegir al candidato demócrata. Resultado: cuarenta y ocho y medio contra cuarenta y siete y medio.",
-      "cierre": "Hoy se enfrenta al republicano Mike Rogers. Sígueme para el resultado.",
+      "cierre": "¿Tú qué piensas? ¿Qué va a pasar? Hoy se enfrenta al republicano Mike Rogers. Volveremos a decir que le lanzaron treinta millones de dólares…",
       "imagenes": "El-Sayed en mitin en Detroit, anuncios de la primaria, gráfico 48,5 / 47,5.",
       "titulo_subida": "30 millones contra él… y ganó: Abdul El-Sayed #Shorts",
       "descripcion": "El super PAC vinculado a AIPAC gastó más de 30 M$ en la primaria demócrata de Michigan. Según Truthout y Responsible Statecraft, con fuerte peso de megadonantes republicanos. Fuentes: AP, CNBC (datos FEC), PolitiFact, Truthout.",
       "hashtags": "#ElSayed #Michigan #AIPAC #Midterms2026",
-      "etiquetas": "abdul el-sayed, michigan senado, haley stevens, aipac, united democracy project, primarias demócratas, super pac, megadonantes"
+      "etiquetas": "abdul el-sayed, michigan senado, haley stevens, aipac, united democracy project, primarias demócratas, super pac, megadonantes",
+      "bucle": {
+        "corte_tras": "Volveremos a decir que",
+        "retoma": "Le lanzaron treinta millones…"
+      },
+      "estado": "revisado"
     },
     {
       "id": 3,
@@ -54,14 +69,19 @@
       "tema": "De Nueva York al Senado",
       "titular": "EFECTO MAMDANI",
       "subtitulo": "LLEGA A MICHIGAN",
-      "gancho": "Lo que empezó en Nueva York puede llegar hoy al Senado.",
+      "gancho": "¿Lo que empezó en Nueva York puede llegar hoy al Senado?",
       "cuerpo": "Zohran Mamdani es el primer alcalde musulmán de Nueva York. Ganó con una campaña sobre el coste de la vida y una postura muy crítica con el gobierno de Netanyahu. Ahora pide el voto para El-Sayed: dice que su elección es de importancia crítica. El patrón se repite: candidatos jóvenes, hijos de inmigrantes, discurso económico y cero dinero de AIPAC. Enfrente, el aparato del partido, sostenido por grandes donantes y lobbies. La batalla ya no es solo entre demócratas y republicanos. Es dentro del Partido Demócrata.",
-      "cierre": "¿Moda de gran ciudad o nuevo modelo? Dímelo abajo.",
+      "cierre": "¿Moda de gran ciudad o nuevo modelo? Dímelo abajo. ¿Acaso lo que empezó en Nueva York puede llegar hoy al Senado?",
       "imagenes": "Mamdani en la toma de posesión, El-Sayed y Mamdani juntos, mítines con público joven.",
       "titulo_subida": "El efecto Mamdani llega al Senado de EE. UU. #Shorts",
       "descripcion": "El alcalde de Nueva York respalda a Abdul El-Sayed en Michigan: la nueva izquierda contra el aparato. Fuentes: Mediaite, NPR.",
       "hashtags": "#Mamdani #ElSayed #NuevaYork #Midterms2026",
-      "etiquetas": "zohran mamdani, alcalde nueva york, abdul el-sayed, izquierda progresista, partido demócrata, midterms, michigan, socialismo democrático"
+      "etiquetas": "zohran mamdani, alcalde nueva york, abdul el-sayed, izquierda progresista, partido demócrata, midterms, michigan, socialismo democrático",
+      "bucle": {
+        "corte_tras": "¿Acaso",
+        "retoma": "¿Lo que empezó en Nueva York…?"
+      },
+      "estado": "revisado"
     },
     {
       "id": 4,
@@ -76,7 +96,8 @@
       "titulo_subida": "Quiere el dinero, no el logo: la paradoja AIPAC de Rogers #Shorts",
       "descripcion": "El candidato republicano en Michigan pidió a AIPAC que no hiciera anuncios a su favor. Fuentes: Axios (vía Mediaite), The Washington Post (vía The National), Truthout.",
       "hashtags": "#MikeRogers #AIPAC #Michigan #Midterms2026",
-      "etiquetas": "mike rogers, aipac, michigan senado, republicanos, lobby pro israel, super pac, elecciones eeuu, el-sayed"
+      "etiquetas": "mike rogers, aipac, michigan senado, republicanos, lobby pro israel, super pac, elecciones eeuu, el-sayed",
+      "estado": "pendiente de revisar"
     },
     {
       "id": 5,
@@ -91,7 +112,8 @@
       "titulo_subida": "MAGA partido en dos: votó contra la guerra y lo echaron #Shorts",
       "descripcion": "Thomas Massie perdió la primaria más cara de la historia de la Cámara tras oponerse a la guerra contra Irán. Fuentes: AP, Daily Signal, Mediaite.",
       "hashtags": "#Massie #MAGA #Irán #Midterms2026",
-      "etiquetas": "thomas massie, ed gallrein, kentucky, maga dividido, tucker carlson, marjorie taylor greene, guerra irán, america first"
+      "etiquetas": "thomas massie, ed gallrein, kentucky, maga dividido, tucker carlson, marjorie taylor greene, guerra irán, america first",
+      "estado": "pendiente de revisar"
     },
     {
       "id": 6,
@@ -106,7 +128,8 @@
       "titulo_subida": "Así convenció Netanyahu a Trump, según el NYT #Shorts",
       "descripcion": "Cronología de cómo EE. UU. entró en la guerra contra Irán. Fuentes: The New York Times, Axios, JWeekly. Netanyahu se define como \"socio menor\".",
       "hashtags": "#Netanyahu #Trump #Irán #Israel",
-      "etiquetas": "netanyahu, trump, guerra irán, sala de situación, casa blanca, israel, axios, new york times"
+      "etiquetas": "netanyahu, trump, guerra irán, sala de situación, casa blanca, israel, axios, new york times",
+      "estado": "pendiente de revisar"
     },
     {
       "id": 7,
@@ -116,12 +139,17 @@
       "subtitulo": "ISRAEL Y EE. UU.",
       "gancho": "Trump hizo campaña… en las elecciones de otro país.",
       "cuerpo": "Israel votó a finales de octubre. Y Trump pidió públicamente a los israelíes que devolvieran a Netanyahu al poder para terminar la guerra contra Irán. Netanyahu, a su vez, aseguró que con él en el cargo Trump podría volver a atacar. Resultado: el Likud queda primero, pero sin mayoría clara. Su rival, Gadi Eisenkot, también reclama la victoria. Una semana después vota Estados Unidos. Dos elecciones que se cruzan. Y una pregunta encima de la mesa: si vuelven las bombas.",
-      "cierre": "Lo que pase hoy en EE. UU. también se mira en Jerusalén. Sígueme.",
+      "cierre": "¿Y tú? ¿Crees que lo que está pasando en EE. UU. también se mira en Tel Aviv? Porque Trump hizo campaña…",
       "imagenes": "Colegios electorales israelíes, Netanyahu y Eisenkot, Trump.",
       "titulo_subida": "Trump pidió el voto para Netanyahu: dos elecciones cruzadas #Shorts",
       "descripcion": "Las elecciones de Israel y las midterms de EE. UU., con la guerra contra Irán de fondo. Fuentes: CNBC, ABC, Colorado Politics, IBTimes.",
       "hashtags": "#Israel #Netanyahu #Trump #Midterms2026",
-      "etiquetas": "elecciones israel, netanyahu, gadi eisenkot, trump, likud, guerra irán, midterms, política exterior"
+      "etiquetas": "elecciones israel, netanyahu, gadi eisenkot, trump, likud, guerra irán, midterms, política exterior",
+      "bucle": {
+        "corte_tras": "Porque",
+        "retoma": "Trump hizo campaña…"
+      },
+      "estado": "revisado"
     },
     {
       "id": 8,
@@ -136,7 +164,8 @@
       "titulo_subida": "14 millones para echar a un congresista: la máquina AIPAC #Shorts",
       "descripcion": "Cómo el lobby pro-Israel pasó del lobby discreto a los super PACs. Fuentes: OpenSecrets, FEC, FactCheck.org.",
       "hashtags": "#AIPAC #SuperPAC #Congreso #EEUU",
-      "etiquetas": "aipac, united democracy project, jamaal bowman, cori bush, super pac, lobby israel, financiación campañas, congreso eeuu"
+      "etiquetas": "aipac, united democracy project, jamaal bowman, cori bush, super pac, lobby israel, financiación campañas, congreso eeuu",
+      "estado": "pendiente de revisar"
     },
     {
       "id": 9,
@@ -151,7 +180,8 @@
       "titulo_subida": "AIPAC deja de avalar candidatos… pero no de gastar #Shorts",
       "descripcion": "El giro de AIPAC del 21 de octubre y los PACs pantalla. Fuentes: NPR, CNBC, Politico, The Intercept, FactCheck.org; megadonantes, según Truthout y Responsible Statecraft.",
       "hashtags": "#AIPAC #DineroOscuro #Midterms2026 #EEUU",
-      "etiquetas": "aipac, united democracy project, pacs fantasma, dinero oscuro, megadonantes, the intercept, politico, financiación electoral"
+      "etiquetas": "aipac, united democracy project, pacs fantasma, dinero oscuro, megadonantes, the intercept, politico, financiación electoral",
+      "estado": "pendiente de revisar"
     },
     {
       "id": 10,
@@ -166,7 +196,8 @@
       "titulo_subida": "La etiqueta que puede acabar con tu carrera en Washington #Shorts",
       "descripcion": "Ser señalado como antisionista te pone en el punto de mira, pero el electorado ha cambiado. Fuente: Gallup (2–16 feb 2026, 1.001 adultos); casos Bowman y Bush (OpenSecrets).",
       "hashtags": "#Israel #Gallup #PartidoDemócrata #EEUU",
-      "etiquetas": "gallup 2026, israel palestina encuesta, antisionismo, partido demócrata, votantes jóvenes, aipac, jamaal bowman, cori bush"
+      "etiquetas": "gallup 2026, israel palestina encuesta, antisionismo, partido demócrata, votantes jóvenes, aipac, jamaal bowman, cori bush",
+      "estado": "pendiente de revisar"
     }
   ]
 }
